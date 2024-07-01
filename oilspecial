@@ -10,12 +10,13 @@ reintroducing.us,bitzite.com,article24.online,gameblog.in,techanalyzer.eu,coingr
 
 ! Bitcoasks
 bitcotasks.com##^script:has-text(popunder)
-bitcotasks.com##+js(nostif, "'clientWidth'")
+viefaucet.com,bitcotasks.com,topadcoin.com##+js(nostif, "'clientWidth'")
 bitcotasks.com##+js(nano-sib, timer)
-bitcotasks.com##+js(set, captcha_valid, true)
+bitcotasks.com,topadcoin.com##+js(set, captcha_valid, true)
 bitcotasks.com##^script:has-text(detected)
-coinpayz.xyz,bitcotasks.com##+js(set, isRequestPresent, true)
-@@||googletagmanager.com/gtag/js$script,domain=bitcotasks.com
+viefaucet.com,coinpayz.xyz,bitcotasks.com##+js(set, isRequestPresent, true)
+@@||googletagmanager.com/gtag/js$script,domain=bitcotasks.com|viefaucet.com
+topadcoin.com###wcfloatDiv4
 
 
 ! Shortner Adb Filter
@@ -64,6 +65,7 @@ petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsval
 petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.col-sm-12.col-lg-3.col
 petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.col-sm-12.col-lg-8.col
 petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###as15v6d9999gg
+petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##body > div:nth-of-type(5)
 !#if cap_html_filtering
 *$script,1p,replace=/window\.location\.assign\("\/detected\.html"\);/""/g,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
 !#endif
@@ -83,52 +85,53 @@ petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsval
 @@||surfe.pro^$script,xhr,image,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
 @@||cdn.bmcdn6.com/js/*d0.js^$domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
 
+
 ! Tiktokcounter
 @@||doubleclick.net^$domain=blackwoodacademy.org
 @@||doubleclick.net^$domain=starkroboticsfrc.com
 @@||doubleclick.net^$domain=tiktokcounter.net
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(rpnt, script, fetch, true)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, ads)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, method:HEAD)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isFirstClickDone, true)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isCaptchaCompleted, true)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isHoverDone, true)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isAdClickDone, true)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assDidCkeDone, true)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assholeWhoReadThis, true)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.\37 888acb86fe5a6cb24ab7ade4f029aa3
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > h1
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.blog-sidebar.nv-right.col-sm-12.nv-sidebar-wrap
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.header
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.entry-header
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##p
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##li
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h2.wp-block-heading
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h3.wp-block-heading
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.comments-area
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > div
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.template-5
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.saboxplugin-wrap
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(9)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-0956246db0261c74acf2cd049a6c7d63
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-8de70ae506e21184ba2ce46fc3240ae9
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###scrolltocbt > div > div > h1
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(15)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box1
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(7)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(10)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide2
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(17)
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-2d939a90a950677f0830ca90d8e0dcba
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen3
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-big-leaderboard-1
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box3
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-square-7
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen1
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.pfad.box-hidden2
-starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.enhanced-reading-modal > div > .pfad
+@@||doubleclick.net^$domain=seoliv.com
+@@||doubleclick.net^$domain=business.cryptednews.space
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(rpnt, script, fetch, true)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, ads)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, method:HEAD)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isFirstClickDone, true)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isAdClickDone, true)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assDidCkeDone, true)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assholeWhoReadThis, true)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.\37 888acb86fe5a6cb24ab7ade4f029aa3
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > h1
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.blog-sidebar.nv-right.col-sm-12.nv-sidebar-wrap
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.header
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.entry-header
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##p
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##li
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h2.wp-block-heading
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h3.wp-block-heading
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.comments-area
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > div
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.template-5
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.saboxplugin-wrap
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(9)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-0956246db0261c74acf2cd049a6c7d63
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-8de70ae506e21184ba2ce46fc3240ae9
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###scrolltocbt > div > div > h1
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(15)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box1
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(7)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(10)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide2
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(17)
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-2d939a90a950677f0830ca90d8e0dcba
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen3
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-big-leaderboard-1
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box3
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-square-7
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen1
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.pfad.box-hidden2
+business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.enhanced-reading-modal > div > .pfad
 
 
 ! CLKS
@@ -184,6 +187,7 @@ homeculina.com###left-ad
 homeculina.com###right-ad
 homeculina.com###right-square-ad
 homeculina.com##.qc-cmp2-persistent-link
+homeculina.com###footer
 @@||googletagmanager.com^$domain=werbum.eu|auntmanny.com|bitsusdt.com|ineedskin.com|fadedfeet.com|homeculina.com|alightmotionlatest.com|awgrow.com|rsstore.in|kenzo-flowertag.com|lawyex.co|worldtanr.xyz|mdn.lol|yexolo.net|gamedouc.com|rijex.pw|ourpy.com|chefslink.org|businessesknowledgeinhindi.com|aayurvedshastra.in
 @@||cdn.bmcdn6.com^$script,domain=werbum.eu|auntmanny.com|bitsusdt.com|ineedskin.com|fadedfeet.com|homeculina.com|alightmotionlatest.com|awgrow.com|rsstore.in|kenzo-flowertag.com|lawyex.co|worldtanr.xyz|mdn.lol|yexolo.net|gamedouc.com|rijex.pw|ourpy.com|chefslink.org|businessesknowledgeinhindi.com|aayurvedshastra.in
 @@||www.google-analytics.com^$domain=werbum.eu|auntmanny.com|bitsusdt.com|ineedskin.com|fadedfeet.com|homeculina.com|alightmotionlatest.com|awgrow.com|rsstore.in|kenzo-flowertag.com|lawyex.co|worldtanr.xyz|mdn.lol|yexolo.net|gamedouc.com|rijex.pw|ourpy.com|chefslink.org|businessesknowledgeinhindi.com|aayurvedshastra.in
@@ -246,16 +250,19 @@ substitutefor.com,thefitbrit.co.uk,appetizingeat.com,earnfromyourlaptop.com,bore
 substitutefor.com,thefitbrit.co.uk,appetizingeat.com,earnfromyourlaptop.com,boredboard.com,shoesonic.com,boardgamechick.com,gametechreviewer.com,pluginmixer.com,healthyfollicles.com,chefknives.expert,tunebug.com,seory.xyz,englishwritingsite.xyz,vrtier.com,gearsadviser.com,vegan4k.com,hauntingrealm.com,midebalonu.net,mejoresperfumes.club,misterio.ro,batmanfactor.com,laptopfinest.com,phineypet.com,allcryptoz.net,crewbase.net,crewus.net,shinbhu.net,shinchu.net,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net,techedifier.com,talkforfitness.com,edonmanor.com,basketballsavvy.com##div.card:nth-of-type(3)
 substitutefor.com,thefitbrit.co.uk,appetizingeat.com,earnfromyourlaptop.com,boredboard.com,shoesonic.com,boardgamechick.com,gametechreviewer.com,pluginmixer.com,healthyfollicles.com,chefknives.expert,tunebug.com,seory.xyz,englishwritingsite.xyz,vrtier.com,gearsadviser.com,vegan4k.com,hauntingrealm.com,midebalonu.net,mejoresperfumes.club,misterio.ro,batmanfactor.com,laptopfinest.com,phineypet.com,allcryptoz.net,crewbase.net,crewus.net,shinbhu.net,shinchu.net,thumb8.net,thumb9.net,topcryptoz.net,uniqueten.net,ultraten.net,techedifier.com,talkforfitness.com,edonmanor.com,basketballsavvy.com##.half-page-container-x
 
+
 ! Rsshort
-armypowerinfo.com,bhugolinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(rpnt, script, });, });var iframe = document.createElement('iframe');iframe.style.height = '0';iframe.style.width = '0';iframe.style.border = '0';document.body.appendChild(iframe);iframe.focus();, condition, googletag, sedCount, 1)
-armypowerinfo.com,bhugolinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(set-cookie, __gads, 1)
-armypowerinfo.com,bhugolinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(aopw, window.onload)
-armypowerinfo.com,bhugolinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(set, document.hasFocus, trueFunc)
-*$frame,redirect-rule=noopframe,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|bhugolinfo.com|armypowerinfo.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|bhugolinfo.com|armypowerinfo.com
-@@*$ghide,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|bhugolinfo.com|armypowerinfo.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
+@@*$ghide,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
+armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(set-cookie, __gads, 1)
+armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(aopw, window.onload)
+armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(nostif, adbox)
 armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(nano-sib, count,*, 0.001)
 armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##form > div[id]:style(display: block !important;)
+armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##.a, .b, .c, .d, .e, .f, .g
+armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##.site-logo
+armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com###click p
+
 
 ! Blog24
 blog24.me,aiimgvlog.fun##+js(rmnt, script, /window\.location|Adblock/)
@@ -407,15 +414,15 @@ annashort.xyz##.footer
 annashort.xyz###cookie-pop
 
 ! Clicksfly
-mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##+js(set, timeSec, 0)
-mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##+js(nano-stb, getlink, *, 0.001)
-mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##+js(noeval-if, replace)
-mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com###gads
-mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##.getlink, #getlink:remove-attr(disabled)
-mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##.container:style(font-size: 0px !important;)
-mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##.container > center:others()
+webhostsec.com,mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##+js(set, timeSec, 0)
+webhostsec.com,mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##+js(nano-stb, getlink, *, 0.001)
+webhostsec.com,mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##+js(noeval-if, replace)
+webhostsec.com,mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com###gads
+webhostsec.com,mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##.getlink, #getlink:remove-attr(disabled)
+webhostsec.com,mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##.container:style(font-size: 0px !important;)
+webhostsec.com,mythvista.com,healthfirstweb.com,vocalley.com,yogablogfit.com,howifx.com,en.financerites.com,junkyponk.com##.container > center:others()
 en.financerites.com##form:others()
-||cmp.quantcast.com^$domain=healthfirstweb.com|vocalley.com|yogablogfit.com|howifx.com|en.financerites.com|junkyponk.com|mythvista.com
+||cmp.quantcast.com^$domain=healthfirstweb.com|vocalley.com|yogablogfit.com|howifx.com|en.financerites.com|junkyponk.com|mythvista.com|webhostsec.com
 
 @@||entlysearchin.info^$ping,domain=ebaticalfel.com|fansmega.com|iedprivatedqu.com|stownrusis.com
 @@||dfdgfruitie.xyz/adserver/yzfdmoan.js$script,domain=ebaticalfel.com|fansmega.com|iedprivatedqu.com|stownrusis.com
