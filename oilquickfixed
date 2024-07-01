@@ -2,8 +2,8 @@
 ! Desription: Stop iklan Menggangu
 
 offerwall.me,ewall.biz,walloffer.com,cryptoad.org,profitswall.com,dripoffers.com,adwallgate.com,offerwallmedia.com,offerwhales.com##+js(set, time, 0)
-dipsnp.com,file.urbanpincode.com,hosty.tipsloanusa.com,rtxkeeda.com,offerwallmedia.com,hereofamily.com,go2.freetrx.fun,admediaflex.com,izseo.net,datacheap.io,phimne.com,sportweb.info,wpcheap.net,tinycmd.com,bitcrypto.info,cdrab.com,tinybc.com,offerinfo.net,cryptfaucet.com,quanngon.org,adcrypto.net,izseo.net,admediaflex.com,daycash.net,ecq.info,savego.org##+js(nano-sib, timer)
-dipsnp.com,file.urbanpincode.com,m.novelquote.com,cryptovertz.com,bitsteps.pro,moonboom.net,dailytech-news.eu##+js(nano-sib)
+clks.site,kzero.site,dipsnp.com,file.urbanpincode.com,hosty.tipsloanusa.com,rtxkeeda.com,offerwallmedia.com,hereofamily.com,go2.freetrx.fun,admediaflex.com,izseo.net,datacheap.io,phimne.com,sportweb.info,wpcheap.net,tinycmd.com,bitcrypto.info,cdrab.com,tinybc.com,offerinfo.net,cryptfaucet.com,quanngon.org,adcrypto.net,izseo.net,admediaflex.com,daycash.net,ecq.info,savego.org##+js(nano-sib, timer)
+clks.site,kzero.site,dipsnp.com,file.urbanpincode.com,m.novelquote.com,cryptovertz.com,bitsteps.pro,moonboom.net##+js(nano-sib)
 /invoke.js$script,redirect-rule=noop.js,domain=ad-doge.com|rfaucet.com|flycrypto.tn|wildfaucet.com|asfaucetbigpay.site|mamineearn.online
 ||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=ad-doge.com|rfaucet.com|flycrypto.tn|wildfaucet.com|asfaucetbigpay.site|mamineearn.online
 ||acceptable.a-ads.com^$frame,redirect-rule=noop.html,domain=ad-doge.com|rfaucet.com|flycrypto.tn|wildfaucet.com|asfaucetbigpay.site|mamineearn.online
@@ -63,14 +63,14 @@ dipsnp.com##^script:has-text(TestAd)
 coinpayz.xyz,best-shopme.com##+js(aopr, htmls)
 coinpayz.xyz,best-shopme.com##+js(aopr, adsBlocked)
 ||ezbit.co.in/ui/assets/js/honeypot.js$script,1p
-xcryptos.site,exactpay.online,read4btc.com,paylinks.cloud,coinsrev.com,en.revly.click,go2.freetrx.fun,cempakajaya.com,masarnajih.com,healthmart.link,bitzite.com,bitcosite.com,brafaucet.site,bakumoney.com,coinsl.click,coredao.tech,sh.techsamir.com##^script:has-text(htmls)
-xcryptos.site,exactpay.online,read4btc.com,paylinks.cloud,coinsrev.com,en.revly.click,go2.freetrx.fun,cempakajaya.com,masarnajih.com,healthmart.link,bitzite.com,bitcosite.com,brafaucet.site,bakumoney.com,coinsl.click,coredao.tech,sh.techsamir.com##+js(aeld, load, htmls)
+xcryptos.site,read4btc.com,paylinks.cloud,coinsrev.com,en.revly.click,go2.freetrx.fun,cempakajaya.com,masarnajih.com,healthmart.link,bitzite.com,bitcosite.com,brafaucet.site,bakumoney.com,coinsl.click,coredao.tech,sh.techsamir.com##^script:has-text(htmls)
+xcryptos.site,read4btc.com,paylinks.cloud,coinsrev.com,en.revly.click,go2.freetrx.fun,cempakajaya.com,masarnajih.com,healthmart.link,bitzite.com,bitcosite.com,brafaucet.site,bakumoney.com,coinsl.click,coredao.tech,sh.techsamir.com##+js(aeld, load, htmls)
 coinpayz.xyz,whoopyrewards.com##+js(acs, document.getElementById, adsBlocked)
 coinpayz.xyz,whoopyrewards.com##+js(rmnt, script, adblock)
 whoopyrewards.com##.ads > div
 cryptly.pro##+js(acs, $, googleAdUrl)
-@@||pagead2.googlesyndication.com^$domain=hatecoin.link|alpinecorporate.com|pernahsukses.com|surflink.tech|missreview.info|autodime.com|banfaucet.com|mcrypto.club|fight4crypto.online|go2.freetrx.fun|freeclaimfaucet.com|cryptogenz.fun|app.covemarkets.com|link1s.com|faucet-bit.com|market-games.info|super.offerboom.top|solarchaine.com|super.offerboom.top|coinsrev.com|crypto4yu.com|readbitcoin.org|cryptorotator.website|rapidshortsurl.pro.lat|gktech.uk|free-pepe.com|adsy.pw|faucetex.top|freeltc.online|whoopyrewards.com|uprwssp.org|finance.helpdeep.com|webseriesreel.in|helpowi.com|hosting.helpowi.com|hostings.helpowi.com|daddy.helpowi.com|hosting.remixone.in|h2.helpowi.com|h2.remixone.in|hostings.remixone.in|adsbtc.fun|dealprice.co|kyawnyar.site|hosty.tipsloanusa.com|cashbux.work|nobitafc.com|earnfeyonline.online|neverdims.com|earncrypto.online|cryptovertz.com|remixone.in|cryptly.pro|reintroducing.us|coingux.com|cryptobigpay.online
-cryptobigpay.online,coingux.com,xtrabits.click,claimercorner.xyz,adzlinx.com,hatecoin.link,topurl.site,read4btc.com,rsfaucet.com,criptolia.site,reintroducing.us,cryptovertz.com,earncrypto.online,neverdims.com,cashbux.work,article24.online,gameblog.in,techanalyzer.eu,coingraph.us,impact24.us,trendzilla.it,horoscop.info,infonerd.org,infotrends.co,writeprofit.org,networkhint.com,hostratgeber.de,miner-sim.com,nobitafc.com,earnfeyonline.online,hunterkiller.me,keforcash.com,dotfaucet.com,litefaucet.in,banfaucet.com,fight4crypto.online,freeclaimfaucet.com,cryptogenz.fun,free-pepe.com,earn-pepe.com,albfaucet.com,adsy.pw,faucetex.top,freeltc.online,whoopyrewards.com,adsbtc.fun,dealprice.co,kyawnyar.site,feyorra.top,cryptly.pro##+js(noeval-if, /chp_?ad/)
+@@||pagead2.googlesyndication.com^$domain=hatecoin.link|alpinecorporate.com|pernahsukses.com|surflink.tech|missreview.info|autodime.com|banfaucet.com|mcrypto.club|fight4crypto.online|go2.freetrx.fun|freeclaimfaucet.com|cryptogenz.fun|app.covemarkets.com|link1s.com|faucet-bit.com|market-games.info|super.offerboom.top|solarchaine.com|super.offerboom.top|coinsrev.com|crypto4yu.com|readbitcoin.org|cryptorotator.website|rapidshortsurl.pro.lat|gktech.uk|free-pepe.com|adsy.pw|faucetex.top|freeltc.online|whoopyrewards.com|uprwssp.org|finance.helpdeep.com|webseriesreel.in|helpowi.com|hosting.helpowi.com|hostings.helpowi.com|daddy.helpowi.com|hosting.remixone.in|h2.helpowi.com|h2.remixone.in|hostings.remixone.in|adsbtc.fun|dealprice.co|kyawnyar.site|hosty.tipsloanusa.com|cashbux.work|nobitafc.com|earnfeyonline.online|neverdims.com|earncrypto.online|cryptovertz.com|remixone.in|cryptly.pro|reintroducing.us|coingux.com|cryptobigpay.online|askpaccosi.com|hatelink.me
+hatelink.me,askpaccosi.com,hatecoin.link,cryptobigpay.online,coingux.com,xtrabits.click,claimercorner.xyz,adzlinx.com,hatecoin.link,topurl.site,read4btc.com,rsfaucet.com,criptolia.site,reintroducing.us,cryptovertz.com,earncrypto.online,neverdims.com,cashbux.work,article24.online,gameblog.in,techanalyzer.eu,coingraph.us,impact24.us,trendzilla.it,horoscop.info,infonerd.org,infotrends.co,writeprofit.org,networkhint.com,hostratgeber.de,miner-sim.com,nobitafc.com,earnfeyonline.online,hunterkiller.me,keforcash.com,dotfaucet.com,litefaucet.in,banfaucet.com,fight4crypto.online,freeclaimfaucet.com,cryptogenz.fun,free-pepe.com,earn-pepe.com,albfaucet.com,adsy.pw,faucetex.top,freeltc.online,whoopyrewards.com,adsbtc.fun,dealprice.co,kyawnyar.site,feyorra.top,cryptly.pro##+js(noeval-if, /chp_?ad/)
 @@||www.ourtecads.com^$domain=exalink.fun|paylinks.cloud
 ||linearicons.com^$domain=exeo.app
 appsbull.com,diudemy.com,maqal360.com##+js(nano-stb, div_form)
@@ -175,7 +175,6 @@ upshrink.com##+js(set, blurred, false)
 trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###go_d:remove-attr(disabled)
 trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###submitBtn, #go_d, #devozon-snp, #submitBtn, #tp-snp1, #go_d2:others()
 trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###submitBtn, #go_d, #devozon-snp, #submitBtn, #tp-snp1, #go_d2:style(display: block !important;)
-bitzite.com##+js(rmnt, script, antiAdBlockerHandler)
 otechno.net,shopforex.online##+js(no-fetch-if, googlesyndication)
 forexit.online,bluetechno.net,otechno.net,shopforex.online##+js(no-fetch-if, googlesyndication)
 te-it.com,forexit.online,bluetechno.net,otechno.net,shopforex.online##+js(rmnt, script, /isScriptLoaded|chhhsyrratw|onerror/)
@@ -196,50 +195,57 @@ techacode.com,sahlmarketing.net###link, center, #yuidea-snp, #btn6:style(display
 techacode.com,sahlmarketing.net##+js(set, count, 0)
 techacode.com##+js(aopr, SMart1)
 techacode.com#@#+js(nowoif, !mtraffics)
-exactpay.online##+js(aopr, htmls)
-exactpay.online##+js(set, document.hasFocus, trueFunc)
-exactpay.online##+js(nostif, offsetWidth)
-videoclip.info,exactpay.online##+js(set, done, 0)
-||exactpay.online/forex/index.js
+ielts-isa.edu.vn##+js(set, count, 0)
+ielts-isa.edu.vn##+js(aopr, SMart1)
+ielts-isa.edu.vn##+js(noeval-if, chp_ad)
+ielts-isa.edu.vn##+js(aeld, DOMContentLoaded, document.documentElement.lang.toLowerCase)
+*$image,domain=ielts-isa.edu.vn,redirect-rule=1x1.gif
+!#if cap_html_filtering
+ielts-isa.edu.vn##^script:has-text(AdBlocker)
+!#else
+ielts-isa.edu.vn##+js(rmnt, script, AdBlocker)
+!#endif
+exactpay.online##+js(set, startNow, noopFunc)
+exactpay.online##.justify-content-center.row
+exactpay.online##div.mb-3.text-center:nth-of-type(3)
+exactpay.online##.blog-comment
+exactpay.online##div.mb-3.text-center
 exalink.fun##+js(set, blurred, false)
 ||earnbitmoon.club/promo/EBM-300x250.gif
-cryptofee.top,bitzite.com,dinheirocrypto.online,btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,gainl.ink,maqal360.com,instantcrypto.info,earnsolana.xyz,exactpay.online,ohionowcast.info,read4btc.com,cryptozao.com,gaminginfos.com,games.offerwhales.com,go2.freetrx.fun,bakumoney.com,coinsl.click,coinsrev.com,en.revly.click,link.oscut.fun,chillfaucet.in,claimfreetrx.online##+js(aopr, htmls)
-cryptofee.top,bitzite.com,dinheirocrypto.online,btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,bakumoney.com,coinsl.click,coinsrev.com,en.revly.click,link.oscut.fun,chillfaucet.in,claimfreetrx.online##+js(acs, document.getElementById, ads)
-@@||www.googletagmanager.com^$script,domain=crypto4yu.com|readbitcoin.org|bakumoney.com|exactpay.online|ohionowcast.info|cryptozao.com|gaminginfos.com|games.offerwhales.com|chillfaucet.in|claimfreetrx.online|cryptofee.top,
+dailytech-news.eu,cryptofee.top,bitzite.com,dinheirocrypto.online,btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,gainl.ink,maqal360.com,instantcrypto.info,earnsolana.xyz,ohionowcast.info,read4btc.com,cryptozao.com,gaminginfos.com,games.offerwhales.com,go2.freetrx.fun,bakumoney.com,coinsl.click,coinsrev.com,en.revly.click,link.oscut.fun,chillfaucet.in,claimfreetrx.online##+js(aopr, htmls)
+dailytech-news.eu,cryptofee.top,bitzite.com,dinheirocrypto.online,btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,bakumoney.com,coinsl.click,coinsrev.com,en.revly.click,link.oscut.fun,chillfaucet.in,claimfreetrx.online##+js(acs, document.getElementById, ads)
+@@||www.googletagmanager.com^$script,domain=crypto4yu.com|readbitcoin.org|bakumoney.com|ohionowcast.info|cryptozao.com|gaminginfos.com|games.offerwhales.com|chillfaucet.in|claimfreetrx.online|cryptofee.top|dailytech-news.eu
 @@||crypto4yu.com^$ghide
 @@||readbitcoin.org^$ghide
 @@||exactpay.online^$ghide
 @@||ohionowcast.info^$ghide
 @@||gaminginfos.com^$ghide
-@@||games.offerwhales.com^$ghide
+@@||dailytech-news.eu^$ghide
+@@||viefaucet.com^$ghide
 btcbitco.in,btcsatoshi.net,wiour.com,readbitcoin.org,crypto4yu.com#@#div.text-center[id]:style(height: 60px !important;)
 readbitcoin.org,crypto4yu.com##div.text-center[id]:style(height: 100px !important;)
 btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com#@#div.text-center[id]:style(height: 120px !important;)
 btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com,gainl.ink#@#iframe[src*="/ads/show.php"]
 @@||googletagmanager.com/gtag/js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com
 @@||hbagency.it/cdn/tcf2_cmp_hbagency.js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com
-claimfreetrx.online,chillfaucet.in,btcbitco.in,btcsatoshi.net,wiour.com,readbitcoin.org,crypto4yu.com##.post > center > [href] > img
-claimfreetrx.online,chillfaucet.in,btcbitco.in##+js(acs, addEventListener, devtools)
-claimfreetrx.online,chillfaucet.in,btcbitco.in,btcsatoshi.net,wiour.com,readbitcoin.org,crypto4yu.com##+js(acs, document.getElementById, ads)
-claimfreetrx.online,chillfaucet.in,btcbitco.in,btcsatoshi.net,wiour.com##+js(nowoif, ?key=)
-@@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org
-@@||surfe.pro^$xhr,domain=btcbitco.in|btcsatoshi.net|readbitcoin.org|crypto4yu.com
-@@*$script,domain=readbitcoin.org|crypto4yu.com|btcbitco.in|btcsatoshi.net
-/invoke.js$script,redirect-rule=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.com|chillfaucet.in|claimfreetrx.online
-||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.co|chillfaucet.in|claimfreetrx.online
-ohionowcast.info,cryptozao.com,exactpay.online,bakumoney.online,gaminginfos.com#@#ins.adsbygoogle
-*$frame,redirect-rule=noopframe,domain=exactpay.online|ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online
-*$xhr,redirect-rule=nooptext,domain=exactpay.online|ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online
-*$script,redirect-rule=noopjs,domain=exactpay.online|ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online
-*$image,redirect-rule=32x32.png:5,domain=exactpay.online|ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online
-claimfreetrx.online,chillfaucet.in,exactpay.online,ohionowcast.info,cryptozao.com,gaminginfos.com#@#+js(abort-current-script, window.onload, innerHTML)
+@@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org|dailytech-news.eu
+@@||surfe.pro^$xhr,domain=btcbitco.in|btcsatoshi.net|readbitcoin.org|crypto4yu.com|dailytech-news.eu
+@@*$script,domain=readbitcoin.org|crypto4yu.com|btcbitco.in|btcsatoshi.net|dailytech-news.eu
+/invoke.js$script,redirect-rule=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.com|chillfaucet.in|claimfreetrx.online|dailytech-news.eu
+||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.co|chillfaucet.in|claimfreetrx.online|dailytech-news.eu
+dailytech-news.eu,ohionowcast.info,cryptozao.com,bakumoney.online,gaminginfos.com#@#ins.adsbygoogle
+*$frame,redirect-rule=noopframe,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu
+*$xhr,redirect-rule=nooptext,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu
+*$script,redirect-rule=noopjs,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu
+*$image,redirect-rule=32x32.png:5,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu
+dailytech-news.eu,claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com#@#+js(abort-current-script, window.onload, innerHTML)
 @@||pagead2.googlesyndication.com/pagead/js/*$xhr,domain=onlyfaucet.com
 @@||www.googletagmanager.com^$domain=onlyfaucet.com
 @@||widget.supercounters.com^$script,domain=onlyfaucet.com
-claimfreetrx.online,chillfaucet.in,exactpay.online,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(acs, addEventListener, devtools)
-claimfreetrx.online,chillfaucet.in,exactpay.online,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(nostif, adContainer)
-claimfreetrx.online,chillfaucet.in,exactpay.online,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(no-setTimeout-if, ads)
-claimfreetrx.online,chillfaucet.in,exactpay.online,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(acs, addEventListener, ads)
+claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(acs, addEventListener, devtools)
+claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(nostif, adContainer)
+claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(no-setTimeout-if, ads)
+claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com##+js(acs, addEventListener, ads)
 claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com##div[align="center"][id]:style(height: 30px !important;)
 @@||pagead2.googlesyndication.com^$domain=gaminginfos.com
 gaminginfos.com##+js(rmnt, script, /userAgent|adb|htmls/)
@@ -521,6 +527,12 @@ acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashm
 acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,pastescript.com,trimorspacks.com,updrop.link##+js(no-fetch-if, googlesyndication)
 acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,pastescript.com,trimorspacks.com,updrop.link###wpsafe-generate, #wpsafelink-landing, #wpsafe-link:style(display: block !important;)
 acetack.com,androidquest.com,apklox.com,chhaprawap.in,gujarativyakaran.com,kashmirstudentsinformation.in,pastescript.com,trimorspacks.com,updrop.link###adb
+blogesque.net,explorosity.net,optimizepics.com,stfly.*,stly.*,torovalley.net##+js(rmnt, script, justDetectAdblock)
+ontechhindi.com##.popSc
+ontechhindi.com##.floating-ads-container
+ontechhindi.com##.inside-article
+ontechhindi.com##.comment-respond
+ontechhindi.com##.is-right-sidebar.sidebar.widget-area
 
 ! Easylist
 offerwall.me,ewall.biz,walloffer.com,cryptoad.org,profitswall.com,dripoffers.com,adwallgate.com,offerwallmedia.com,offerwhales.com,bitswall.net###frame
@@ -539,7 +551,7 @@ offerwallmedia.com###HBai_5_Anchor_Right
 offerwallmedia.com###HBai_2_Anchor_Bottom
 offerwallmedia.com###HBai_2_Anchor_Bottom
 offerwallmedia.com###revbid-square-197
-proearn.xyz,cashclick.site,linkswift.click,linkzfly.xyz,surflink.pro,forex0.aghtas.com,short1.site,coinsl.click,linksly.co,linx.cc,terafly.me,otohits.pl,gold-24.net,3rabsports.com,fx-22.com,adsy.pw,playstore.pw,tech5s.co,hookeaudio.com,iwin68.io,iwinfun.com,mmlive.plus,iwin39.com,pennbookcenter.com,publicananker.com,lucidcam.com,bitcrypto.info,sportweb.info,offerinfo.net,phimne.com,calmgram.com,sahityt.com,zombiebtc.com,blog.zombiebtc.com,btcpany.com,linkmay.me,cryptfaucet.com,cdrab.com,datacheap.io,izseo.net,savego.org,admediaflex.com,quanngon.org,zaloqq.asia,68gamebai.io,deportealdia.live,techmody.io,ez4mods.com,exeo.app,go.techgeek.digital,thanks.tinygo.co,thanks.tinycmd.com,thanks.tinybc.com,thanks.viewfr.com,thanks.urlw.net,webhostingpost.com,adshorti.xyz,uptechnologys.com,anhdep24.com,hocbeauty.com,gadgetsreview27.com,theconomy.me,insurancepost.xyz,financeandinsurance.xyz,bluetechno.net,forexit.online,sinonimos.de,quesignifi.ca,plantsguide.net,coinscap.info,freeoseocheck.com,coinsvalue.net,cookinguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com,makeupguide.net,carstopia.net,carsmania.net,btcsatoshi.net,btcbitco.in,wiour.com,readbitcoin.org,crypto4yu.com,rapidshort.lat,techgeek.digital,short2url.xyz,cutsy.net,exego.app,exeurl.com,monimag.com,leaveadvice.com,freeslotchips.com,revadvert.com,illink.net,clicklink.fun,bitsusdt.com,kyshort.xyz,esopress.com,short.shortlinks.info,world2our.com,short.claimbits.site,alpinecorporate.com,pernahsukses.com,meykmen.com,arabplus2.co,clk.wiki,c2g.at,go.tgshortener.com,dlrtronfaucet.co.in,coinsrev.com,tophostingapp.com,adbitfly.com,tmearn.net,fc-lc.xyz,eazyurl.xyz,hosty.tipsloanusa.com,finance.helpdeep.com,webseriesreel.in,uprwssp.org,helpowi.com,hosting.helpowi.com,hostings.helpowi.com,hosting.remixone.in,hostings.remixone.in,h2.remixone.in,h2.helpowi.com,fx-gd.net,shrinke.us,panytourism.online,panyhealth.com,statepany.online,adcorto.com,forex-trnd.com,gz2.in,te-it.com,ligaset.com,cryptotracker.space,forextrader.site,shrinkme.info,thanks.wez.info,skiplink.me,blogsward.com,urlcash.site,shrinkme.in,bitss.sbs,short.nightfaucet.me,insfaucet.xyz,short.vielink.top,insfly.pw,clashclick.site,advertisingexcel.com##p
+rsfly.pro,proearn.xyz,cashclick.site,linkswift.click,linkzfly.xyz,surflink.pro,forex0.aghtas.com,short1.site,coinsl.click,linksly.co,linx.cc,terafly.me,otohits.pl,gold-24.net,3rabsports.com,fx-22.com,adsy.pw,playstore.pw,tech5s.co,hookeaudio.com,iwin68.io,iwinfun.com,mmlive.plus,iwin39.com,pennbookcenter.com,publicananker.com,lucidcam.com,bitcrypto.info,sportweb.info,offerinfo.net,phimne.com,calmgram.com,sahityt.com,zombiebtc.com,blog.zombiebtc.com,btcpany.com,linkmay.me,cryptfaucet.com,cdrab.com,datacheap.io,izseo.net,savego.org,admediaflex.com,quanngon.org,zaloqq.asia,68gamebai.io,deportealdia.live,techmody.io,ez4mods.com,exeo.app,go.techgeek.digital,thanks.tinygo.co,thanks.tinycmd.com,thanks.tinybc.com,thanks.viewfr.com,thanks.urlw.net,webhostingpost.com,adshorti.xyz,uptechnologys.com,anhdep24.com,hocbeauty.com,gadgetsreview27.com,theconomy.me,insurancepost.xyz,financeandinsurance.xyz,bluetechno.net,forexit.online,sinonimos.de,quesignifi.ca,plantsguide.net,coinscap.info,freeoseocheck.com,coinsvalue.net,cookinguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com,makeupguide.net,carstopia.net,carsmania.net,btcsatoshi.net,btcbitco.in,wiour.com,readbitcoin.org,crypto4yu.com,rapidshort.lat,techgeek.digital,short2url.xyz,cutsy.net,exego.app,exeurl.com,monimag.com,leaveadvice.com,freeslotchips.com,revadvert.com,illink.net,clicklink.fun,bitsusdt.com,kyshort.xyz,esopress.com,short.shortlinks.info,world2our.com,short.claimbits.site,alpinecorporate.com,pernahsukses.com,meykmen.com,arabplus2.co,clk.wiki,c2g.at,go.tgshortener.com,dlrtronfaucet.co.in,coinsrev.com,tophostingapp.com,adbitfly.com,tmearn.net,fc-lc.xyz,eazyurl.xyz,hosty.tipsloanusa.com,finance.helpdeep.com,webseriesreel.in,uprwssp.org,helpowi.com,hosting.helpowi.com,hostings.helpowi.com,hosting.remixone.in,hostings.remixone.in,h2.remixone.in,h2.helpowi.com,fx-gd.net,shrinke.us,panytourism.online,panyhealth.com,statepany.online,adcorto.com,forex-trnd.com,gz2.in,te-it.com,ligaset.com,cryptotracker.space,forextrader.site,shrinkme.info,thanks.wez.info,skiplink.me,blogsward.com,urlcash.site,shrinkme.in,bitss.sbs,short.nightfaucet.me,insfaucet.xyz,short.vielink.top,insfly.pw,clashclick.site,advertisingexcel.com##p
 plantsguide.net,coinscap.info,freeoseocheck.com,coinsvalue.net,cookinguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com,makeupguide.net,carstopia.net,carsmania.net##.col-sm-12.col-lg-3.col
 plantsguide.net,coinscap.info,freeoseocheck.com,coinsvalue.net,cookinguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com,makeupguide.net,carstopia.net,carsmania.net##.col-sm-12.col-lg-8.col
 savego.org,cdrab.com,iwin68.io,iwinfun.com,mmlive.plus,iwin39.com,bitcrypto.info,sportweb.info,offerinfo.net,phimne.com,freeoseocheck.com,blog.wiki-topia.com,textpro.me,bluetechno.net,world2our.com,forexit.online,mobi2c.com,fx-gd.net,te-it.com,eazyurl.xyz,izseo.net,admediaflex.com,quanngon.org,cryptotracker.space,datacheap.io,url.beycoin.xyz##h1
@@ -548,14 +560,14 @@ cashclick.site,linkswift.click,linkzfly.xyz,surflink.pro,coinfays.com,forex0.agh
 linx.cc,iwin68.io,iwinfun.com,mmlive.plus,iwin39.com,ez4short.com,calmgram.com,bluetechno.net,forexit.online,mobi2c.com,fx-gd.net,te-it.com,plantsguide.net,coinscap.info,coinsvalue.net,cookinguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com,makeupguide.net,carstopia.net,carsmania.net,techgeek.digital,short.claimbits.site,alpinecorporate.com,pernahsukses.com,clk.wiki,eazyurl.xyz,shrinke.us,ligaset.com,url.beycoin.xyz,world2our.com,coinsrev.com,helpowi.com,helpowi.com,hostings.helpowi.com,hostings.remixone.in,insfaucet.xyz##h4
 shrinke.us##h5
 iwin68.io,iwinfun.com,mmlive.plus,iwin39.com,calmgram.com,cdrab.com,datacheap.io,savego.org,izseo.net,admediaflex.com,quanngon.org,cryptfaucet.com,plantsguide.net,coinscap.info,freeoseocheck.com,coinsvalue.net,cookinguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com,makeupguide.net,carstopia.net,carsmania.net,wiour.com,eazyurl.xyz##ul
-proearn.xyz,forex0.aghtas.com,beycoin.xyz,offerinfo.net,phimne.com,iwin68.io,iwinfun.com,mmlive.plus,iwin39.com,howifx.com,vocalley.com,calmgram.com,zombiebtc.com,68gamebai.io,plantsguide.net,coinscap.info,blog.coinsvalue.net,blog.cookinguide.net,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.makeupguide.net,blog.carstopia.net,blog.carsmania.net,btcbitco.in,revadvert.com,quesignifi.ca,bluetechno.net,world2our.com,forexit.online,coinsrev.com,alpinecorporate.com,pernahsukses.com,eazyurl.xyz,hosty.tipsloanusa.com,finance.helpdeep.com,webseriesreel.in,hosting.helpowi.com,hostings.helpowi.com,hosting.remixone.in,hostings.remixone.in,h2.remixone.in,helpowi.com,h2.helpowi.com,uprwssp.org,shrinke.us,btcpany.com,ligaset.com,shrinkme.info,skiplink.me,blogsward.com,clashclick.site##li
+rsfly.pro,proearn.xyz,forex0.aghtas.com,beycoin.xyz,offerinfo.net,phimne.com,iwin68.io,iwinfun.com,mmlive.plus,iwin39.com,howifx.com,vocalley.com,calmgram.com,zombiebtc.com,68gamebai.io,plantsguide.net,coinscap.info,blog.coinsvalue.net,blog.cookinguide.net,blog.cryptowidgets.net,blog.insurancegold.in,blog.wiki-topia.com,blog.makeupguide.net,blog.carstopia.net,blog.carsmania.net,btcbitco.in,revadvert.com,quesignifi.ca,bluetechno.net,world2our.com,forexit.online,coinsrev.com,alpinecorporate.com,pernahsukses.com,eazyurl.xyz,hosty.tipsloanusa.com,finance.helpdeep.com,webseriesreel.in,hosting.helpowi.com,hostings.helpowi.com,hosting.remixone.in,hostings.remixone.in,h2.remixone.in,helpowi.com,h2.helpowi.com,uprwssp.org,shrinke.us,btcpany.com,ligaset.com,shrinkme.info,skiplink.me,blogsward.com,clashclick.site##li
 fx-gd.net,mobi2c.com,68gamebai.io,videoclip.info##b
 fx-22.com,sahityt.com,sinonimos.de,quesignifi.ca##ol
 kotenkoshort.xyz,chainfo.xyz,shortsme.in,blog.financeandinsurance.xyz,fc-lc.xyz,linksfly.link,freeltc.top,insfly.pw,zshort.io,inlinks.online,cashfly.xyz,shrinkmy.site,cashclick.site,topfaucet.us,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,shortlinks.info,inlinks.online,cashfly.xyz,shrinkmy.site,cashclick.site,topfaucet.us,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,admediaflex.com,wez.info,bitss.sbs,wedocrypto.online,cryptotyphoon.com,oii.io,exashorts.fun,go.linksfly.link,meykmen.com,arabplus2.co,c2g.at,go.linksly.co,beycoin.xyz,illink.net,yofaurls.com,go.urlpay.in,vzu.us,panyshort.link,panyflay.me,clashclick.site##.navbar-default.navbar
-proearn.xyz,kotenkoshort.xyz,cryptosh.pro,shrinkbit.in,market-games.info,oii.io,thanks.tinygo.co,thanks.tinycmd.com,thanks.tinybc.com,thanks.viewfr.com,thanks.urlw.net,droplink.co,url.namaidani.com,shurt.pw,clik.pw,mitly.us,dz4link.com,yofaurls.com,tlin.me,startoshi.com,gtlink.co,get.megaurl.in,get.megafly.in,g0.hatelink.me,urlcashh.quest,softindex.site,softindex.website,urlcashh.click,paylinks.cloud,enit.in,clk.wiki,link.foxylinks.site##.text-left
-proearn.xyz,kotenkoshort.xyz,blogsward.com,te-it.com,mobi2c.com,fx-gd.net,shrinke.us,world2our.com,short.claimbits.site,3rabsports.com,loptelink.com,byboe.com,alpinecorporate.com,cellunlocks.com,shrinkme.info,cdrab.com,quanngon.org,izseo.net,admediaflex.com,savego.org##strong
-proearn.xyz,kotenkoshort.xyz,shorturl.pro,adbx.pro,adbits.pro,v2p.icu,chainfo.xyz,shortsme.in,fc-lc.xyzlinksfly.link,freeltc.top,c2g.at,exashorts,insfly.pwzshort.io,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,cashclick.site,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,sharecut.io,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,cashclick.site,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,dglinks.site,modmania.eu.org,inshort.pro,diudemy.com,maqal360.com,shrinke.me,paylinks.cloud,clashclick.site##footer
-proearn.xyz,kotenkoshort.xyz,shorturl.pro,adbx.pro,adbits.pro,v2p.icu,chainfo.xyz,shortsme.in,linksfly.link,insfly.pwzshort.io,shortsurl.pro,shortino.link,cutlink.xyz,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,surflink.pro,sharecut.io,shortino.link,cutlink.xyz,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,surflink.pro,viefaucet.link,urlcut.pro,dlrtronfaucet.co.in,earnify.pro,linksfly.link,short.shortlinks.info,inshort.pro,clicklink.fun,short1.site,linksly.co,sl.ltc25.in,ser3.crazyblog.in,panyshort.link,viply.icu,linkjust.com,easycut.io,shtfly.site,startoshi.com,short2url.xyz,otohits.pl,shrinkbit.in,go.bitcosite.com,urlcash.site,softindex.site,softindex.website,urlcash.click,g4z.one,rapidshort.lat,get.paid4file.com,shrinkme.in,shrinkme.info,solarchaine.com,rainurl.com,dash-free.com,illink.net,cash.earnify.pro,yofaurls.com,go.tgshortener.com,earn24.fun,loptelink.com,ez4short.com,calmgram.com,url.beycoin.xyz,blog.adlink.click,coinsl.click,kyshort.xyz,oscut.space,ctr.sh,adsquite.com,short.express,go.linksly.co,panylink.com,birdurls.com,owllink.net,cryptosh.pro,shrinkme.link,shortnow.top,cpm.icu,v2p.icu,birdurls.com,blog.shrinkme.link,go.illink.net,go.owllink.net,go.birdurls.com,exalink.fun,panyflay.me,linkmay.me,slfly.me,go.tplinks.in,adrev.link,thanks.wez.info,thanks.tinygo.co,thanks.tinycmd.com,thanks.tinybc.com,thanks.viewfr.com,thanks.urlw.net,flyad.vip,shrinke.me,sigmalinks.in,paylinks.cloud,linko.earnify.pro,insfly.pw,c2g.at,cashlinko.com,fc-lc.xyz,eazyurl.xyz,link.foxylinks.site,playstore.pw,adcorto.com,revcut.net,go.urlpay.in,cryptotracker.space,faho.us,forextrader.site,bitss.sbs,clockads.in,adpayl.ink,short.nightfaucet.me,shortlinks.info,short.vielink.top,droplink.top,bestlink.pro,freeltc.top,freecrypto.top,dglinks.site.shortme.in,shortlink.cryptodrops.site,bitad.org,clashclick.site###cookie-pop
+rsfly.pro,proearn.xyz,kotenkoshort.xyz,cryptosh.pro,shrinkbit.in,market-games.info,oii.io,thanks.tinygo.co,thanks.tinycmd.com,thanks.tinybc.com,thanks.viewfr.com,thanks.urlw.net,droplink.co,url.namaidani.com,shurt.pw,clik.pw,mitly.us,dz4link.com,yofaurls.com,tlin.me,startoshi.com,gtlink.co,get.megaurl.in,get.megafly.in,g0.hatelink.me,urlcashh.quest,softindex.site,softindex.website,urlcashh.click,paylinks.cloud,enit.in,clk.wiki,link.foxylinks.site##.text-left
+rsfly.pro,proearn.xyz,kotenkoshort.xyz,blogsward.com,te-it.com,mobi2c.com,fx-gd.net,shrinke.us,world2our.com,short.claimbits.site,3rabsports.com,loptelink.com,byboe.com,alpinecorporate.com,cellunlocks.com,shrinkme.info,cdrab.com,quanngon.org,izseo.net,admediaflex.com,savego.org##strong
+rsfly.pro,proearn.xyz,kotenkoshort.xyz,shorturl.pro,adbx.pro,adbits.pro,v2p.icu,chainfo.xyz,shortsme.in,fc-lc.xyzlinksfly.link,freeltc.top,c2g.at,exashorts,insfly.pwzshort.io,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,cashclick.site,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,sharecut.io,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,cashclick.site,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,dglinks.site,modmania.eu.org,inshort.pro,diudemy.com,maqal360.com,shrinke.me,paylinks.cloud,clashclick.site##footer
+rsfly.pro,proearn.xyz,kotenkoshort.xyz,shorturl.pro,adbx.pro,adbits.pro,v2p.icu,chainfo.xyz,shortsme.in,linksfly.link,insfly.pwzshort.io,shortsurl.pro,shortino.link,cutlink.xyz,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,surflink.pro,sharecut.io,shortino.link,cutlink.xyz,dutchycorp.ovh,inlinks.online,cashfly.xyz,shrinkmy.site,topfaucet.us,btcut.io,bitzite.com,coinfays.com,slfly.net,kyshort.xyz,crypto-radio.eu,linkswift.click,linkzfly.xyz,surflink.pro,viefaucet.link,urlcut.pro,dlrtronfaucet.co.in,earnify.pro,linksfly.link,short.shortlinks.info,inshort.pro,clicklink.fun,short1.site,linksly.co,sl.ltc25.in,ser3.crazyblog.in,panyshort.link,viply.icu,linkjust.com,easycut.io,shtfly.site,startoshi.com,short2url.xyz,otohits.pl,shrinkbit.in,go.bitcosite.com,urlcash.site,softindex.site,softindex.website,urlcash.click,g4z.one,rapidshort.lat,get.paid4file.com,shrinkme.in,shrinkme.info,solarchaine.com,rainurl.com,dash-free.com,illink.net,cash.earnify.pro,yofaurls.com,go.tgshortener.com,earn24.fun,loptelink.com,ez4short.com,calmgram.com,url.beycoin.xyz,blog.adlink.click,coinsl.click,kyshort.xyz,oscut.space,ctr.sh,adsquite.com,short.express,go.linksly.co,panylink.com,birdurls.com,owllink.net,cryptosh.pro,shrinkme.link,shortnow.top,cpm.icu,v2p.icu,birdurls.com,blog.shrinkme.link,go.illink.net,go.owllink.net,go.birdurls.com,exalink.fun,panyflay.me,linkmay.me,slfly.me,go.tplinks.in,adrev.link,thanks.wez.info,thanks.tinygo.co,thanks.tinycmd.com,thanks.tinybc.com,thanks.viewfr.com,thanks.urlw.net,flyad.vip,shrinke.me,sigmalinks.in,paylinks.cloud,linko.earnify.pro,insfly.pw,c2g.at,cashlinko.com,fc-lc.xyz,eazyurl.xyz,link.foxylinks.site,playstore.pw,adcorto.com,revcut.net,go.urlpay.in,cryptotracker.space,faho.us,forextrader.site,bitss.sbs,clockads.in,adpayl.ink,short.nightfaucet.me,shortlinks.info,short.vielink.top,droplink.top,bestlink.pro,freeltc.top,freecrypto.top,dglinks.site.shortme.in,shortlink.cryptodrops.site,bitad.org,clashclick.site###cookie-pop
 url.beycoin.xyz##.col-md-7
 beycoin.xyz##[src="https://blog.beycoin.xyz/wp-content/uploads/2023/05/Group-9119.png"]
 beycoin.xyz##.col-md-7
@@ -674,19 +686,6 @@ btcbitco.in###verify
 crypto4yu.com##img.size-full
 btcsatoshi.net##.card-body > div.text-center > div
 gainl.ink##.install-prompt-content
-exactpay.online##.adtester-container-320.adtester-container.medrectangle-3320.medrectangle-3.ezoic-at-0.ezoic-ad
-exactpay.online##div.mb-3.text-center:nth-of-type(1)
-exactpay.online##.blog-details
-exactpay.online###\36 54a72994a171
-exactpay.online##.adtester-container-900.adtester-container.box-2900.box-2.ezoic-at-0.ezoic-ad
-exactpay.online##div.mb-3.text-center:nth-of-type(6)
-exactpay.online##.adtester-container-635.adtester-container.medrectangle-1635.medrectangle-1.ezoic-at-0.ezoic-ad > .ezoic-adl.ezads-sticky-intradiv.ezoic-ad
-exactpay.online##iframe.ezlazyloaded:nth-of-type(1)
-exactpay.online##.adtester-container-100.adtester-container.medrectangle-2100.medrectangle-2.ezoic-at-4.ezoic-ad > .ezoic-ad
-exactpay.online##iframe.ezlazyloaded:nth-of-type(2)
-exactpay.online###ezmobfooter > center
-exactpay.online###\36 54a73e6bdd4d > .reportline
-exactpay.online##div.mb-3.text-center:nth-of-type(5)
 hatecoin.me##.sticky-media-container
 hatecoin.me##.container-fluid > .card
 hatecoin.me##.ads
@@ -780,11 +779,6 @@ url.beycoin.xyz###link-view .row
 bakumoney.com##.col-lg-12.col-xl-10.bg-white.blog
 bakumoney.com##.mb-3.col-lg-12.col-xl-10
 ||adsquite.com/submit.html$subdocument
-exactpay.online##div.mb-3.text-center:nth-of-type(2)
-exactpay.online##div.mb-3.text-center:nth-of-type(3)
-exactpay.online###gpt-728x90extra_1 > div.mb-3.text-center:nth-of-type(4)
-exactpay.online##[src="https://cryptocoinsad.com/ads/show.php?a=256885&b=397554"]
-exalink.fun##[src]
 bakumoney.com##.bg-theme-grad.nk-footer > .section
 wooshtecno.blogspot.com##.post-outer-container
 wooshtecno.blogspot.com##.sidebar-invisible.container.sidebar-container
@@ -1908,3 +1902,55 @@ www.diudemy.com##h3
 blog.adlink.click##.navbar-default.navbar
 blog.adlink.click##footer
 blog.adlink.click##[href="https://earnhub.net/"]
+inviscash.site,red12links.c1.is##.navbar-default.navbar
+inviscash.site,red12links.c1.is##footer
+inviscash.site,red12links.c1.is###cookie-pop
+inviscash.site##.text-left
+dipsnp.com##p
+dipsnp.com##.has-custom-border.is-resized.size-large.aligncenter.wp-block-image
+dipsnp.com##h3.wp-block-heading
+dipsnp.com##li
+dipsnp.com##.wp-block-button
+dipsnp.com##h1
+shorthop.fun##.text-white.bg-primary
+shorthop.fun##.animated.zoomIn.wow.text-center.py-5
+shorthop.fun###cookie-pop
+shorthop.fun###frame
+nextgenclick.com##p
+nextgenclick.com##h4
+nextgenclick.com##.text-left
+nextgenclick.com###cookie-pop
+nextgenclick.com##.navbar-default.navbar
+ashurl.xyz##.navbar-default.navbar
+cashurl.xyz##.text-left
+cashurl.xyz##footer
+cashurl.xyz###cookie-pop
+cashurl.xyz##.panel-body
+cashurl.xyz##div.col-md-6:nth-of-type(1)
+cashurl.xyz##.panel-default.panel
+chillfaucet.in##.xl\:px-24.py-4.px-4.items-center.flex
+chillfaucet.in##section.md\:py-24.py-16.relative:nth-of-type(1)
+chillfaucet.in##p
+chillfaucet.in##.items-center.flex.mb-16
+chillfaucet.in##figure.mb-16
+chillfaucet.in##.text-center.max-w-lg.mb-16.mx-auto
+chillfaucet.in##.article-content
+chillfaucet.in##center.mb-5.mt-10:nth-of-type(2)
+chillfaucet.in##.bg-white.text-center.py-6.dark\:bg-jacarta-800
+dailytech-news.eu##div.mb-3.text-center:nth-of-type(2)
+dailytech-news.eu##div.mb-3.text-center:nth-of-type(3)
+dailytech-news.eu##div.mb-3.text-center:nth-of-type(4)
+dailytech-news.eu###close-anchor-bottom-button
+dailytech-news.eu###close-anchor-top-button > div
+dailytech-news.eu###close-anchor-left-button
+dailytech-news.eu##div.mb-3.text-center:nth-of-type(5)
+inviscash.site##.banner-inner
+dailytech-news.eu###revbid-leaderboard-147
+bitsbon.com###wcfloatDiv1
+clks.site##.ad-container
+clks.site##.container
+clks.site###wpsafe-wait1
+kzero.site##.ads-container
+kzero.site###revbid-skyscraper-61
+kzero.site###revbid-skyscraper-60
+kzero.site##.ad-container
