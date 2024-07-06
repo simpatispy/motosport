@@ -1,3 +1,4 @@
+
 ! Title: SatSet Shortner Special
 ! Desription: Stop iklan di Shortner
 
@@ -21,69 +22,69 @@ topadcoin.com###wcfloatDiv4
 
 ! Shortner Adb Filter
 ! Earnow
-petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(rmnt, script, adblock)
-petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(aost, onload, inlineScript)
-petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(noeval-if, /chp_?ad/)
-petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(rmnt, script, /window\.location|Adblock/)
-petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(acs, document.createElement, adsBlocked)
-petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(refresh-defuser)
-petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(nostif, /(?:function\s*)?\(.*?\)\s*(?:=>)?\s*\{\s*\w+\(\);?([.\s]*)\}/)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.fa-xmark
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(aeld, load, htmls)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##^script:has-text(htmls)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(acs, document.getElementById, location.replace)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.floating-banner
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##^script:has-text(adsBlocked)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(ra, disabled, .btn-primary)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##input[type="hidden"]:style(display: block !important;)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###countdown ~ :not(center)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(set, document.hasFocus, trueFunc)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(acs, document.getElementById, /ad(d|ss)/)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###ad\.js
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(set, navigator.brave, undefined)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(nostif, /bait|detected/)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##input
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.text-center.row > center
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.text-center.row
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.fixed-top.navbar-dark.navbar-expand-lg.navbar
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.alert-primary.alert
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.cacat:nth-of-type(4)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.py-4.footer
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.adsbygoogle-noablate.adsbygoogle
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(nostif, check, 1)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(rmnt, script, adBlockDetected)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##^script[data-script='CallAdBlock-script']:has-text(adBlockDetected)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com#@#+js(acs, document.createElement, adsBlocked)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###krptoabc:style(display: block !important;)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(nostif, alert)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.textsshow
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.adblock_subtitle
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.text-center.row
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com#@##countdown ~ :not(center)
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##h1, h2, h3, h4
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##p, ul, li
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.col-sm-12.col-lg-3.col
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.col-sm-12.col-lg-8.col
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###as15v6d9999gg
-petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##body > div:nth-of-type(5)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(rmnt, script, adblock)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(aost, onload, inlineScript)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(noeval-if, /chp_?ad/)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(rmnt, script, /window\.location|Adblock/)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(acs, document.createElement, adsBlocked)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(refresh-defuser)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,cryptowidgets.net,insurancegold.in,wiki-topia.com,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net##+js(nostif, /(?:function\s*)?\(.*?\)\s*(?:=>)?\s*\{\s*\w+\(\);?([.\s]*)\}/)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.fa-xmark
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(aeld, load, htmls)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##^script:has-text(htmls)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(acs, document.getElementById, location.replace)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.floating-banner
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##^script:has-text(adsBlocked)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(ra, disabled, .btn-primary)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##input[type="hidden"]:style(display: block !important;)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###countdown ~ :not(center)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(set, document.hasFocus, trueFunc)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(acs, document.getElementById, /ad(d|ss)/)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###ad\.js
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(set, navigator.brave, undefined)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(nostif, /bait|detected/)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##input
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.text-center.row > center
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.text-center.row
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.fixed-top.navbar-dark.navbar-expand-lg.navbar
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.alert-primary.alert
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.cacat:nth-of-type(4)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.py-4.footer
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.adsbygoogle-noablate.adsbygoogle
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(nostif, check, 1)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(rmnt, script, adBlockDetected)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##^script[data-script='CallAdBlock-script']:has-text(adBlockDetected)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com#@#+js(acs, document.createElement, adsBlocked)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###krptoabc:style(display: block !important;)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##+js(nostif, alert)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.textsshow
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.adblock_subtitle
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##div.text-center.row
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com#@##countdown ~ :not(center)
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##h1, h2, h3, h4
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##p, ul, li
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.col-sm-12.col-lg-3.col
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##.col-sm-12.col-lg-8.col
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com###as15v6d9999gg
+coinstrend.net,coinsrise.net,petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsvalue.net,cookinguide.net,freeoseocheck.com,makeupguide.net,cryptowidgets.net,insurancegold.in,wiki-topia.com##body > div:nth-of-type(5)
 !#if cap_html_filtering
-*$script,1p,replace=/window\.location\.assign\("\/detected\.html"\);/""/g,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+*$script,1p,replace=/window\.location\.assign\("\/detected\.html"\);/""/g,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
 !#endif
-*$csp=style-src *,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-*$script,redirect-rule=noopjs,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-*$frame,csp=style-src *,from=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net,badfilter
-@@||static.surfe.pro/js/net.js$script,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||pagead2.googlesyndication.com^$xhr,script,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@*$ghide,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||hbagency.it^$script,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||securepubads.g.doubleclick.net^$script,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@*$script,1p,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||googletagmanager.com^$script,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||tpc.googlesyndication.com^$script,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||cdn.bmcdn6.com^$script,xhr,image,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||surfe.pro^$script,xhr,image,domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
-@@||cdn.bmcdn6.com/js/*d0.js^$domain=petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+*$csp=style-src *,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+*$script,redirect-rule=noopjs,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+*$frame,csp=style-src *,from=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net,badfilter
+@@||static.surfe.pro/js/net.js$script,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||pagead2.googlesyndication.com^$xhr,script,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@*$ghide,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||hbagency.it^$script,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||securepubads.g.doubleclick.net^$script,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@*$script,1p,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||googletagmanager.com^$script,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||tpc.googlesyndication.com^$script,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||cdn.bmcdn6.com^$script,xhr,image,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||surfe.pro^$script,xhr,image,domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
+@@||cdn.bmcdn6.com/js/*d0.js^$domain=coinstrend.net|coinsrise.net|petsguide.net|plantsguide.net|coinscap.info|cryptowidgets.net|insurancegold.in|wiki-topia.com|carsmania.net|carstopia.net|coinsvalue.net|cookinguide.net|freeoseocheck.com|makeupguide.net
 
 
 ! Tiktokcounter
@@ -92,46 +93,50 @@ petsguide.net,plantsguide.net,coinscap.info,carsmania.net,carstopia.net,coinsval
 @@||doubleclick.net^$domain=tiktokcounter.net
 @@||doubleclick.net^$domain=seoliv.com
 @@||doubleclick.net^$domain=business.cryptednews.space
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(rpnt, script, fetch, true)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, ads)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, method:HEAD)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isFirstClickDone, true)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isAdClickDone, true)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assDidCkeDone, true)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assholeWhoReadThis, true)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.\37 888acb86fe5a6cb24ab7ade4f029aa3
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > h1
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.blog-sidebar.nv-right.col-sm-12.nv-sidebar-wrap
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.header
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.entry-header
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##p
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##li
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h2.wp-block-heading
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h3.wp-block-heading
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.comments-area
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > div
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.template-5
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.saboxplugin-wrap
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(9)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-0956246db0261c74acf2cd049a6c7d63
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-8de70ae506e21184ba2ce46fc3240ae9
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###scrolltocbt > div > div > h1
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(15)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box1
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(7)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(10)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide2
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(17)
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-2d939a90a950677f0830ca90d8e0dcba
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen3
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-big-leaderboard-1
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box3
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-square-7
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen1
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.pfad.box-hidden2
-business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.enhanced-reading-modal > div > .pfad
+@@||doubleclick.net^$domain=business4.cryptednews.space
+@@||doubleclick.net^$domain=2wheelslife.com
+@@||doubleclick.net^$domain=sinonimos.de
+@@||doubleclick.net^$domain=finance240.com
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(rpnt, script, fetch, true)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, ads)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, method:HEAD)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isFirstClickDone, true)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isAdClickDone, true)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assDidCkeDone, true)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assholeWhoReadThis, true)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.\37 888acb86fe5a6cb24ab7ade4f029aa3
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > h1
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.blog-sidebar.nv-right.col-sm-12.nv-sidebar-wrap
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.header
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.entry-header
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##p
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##li
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h2.wp-block-heading
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##h3.wp-block-heading
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.comments-area
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt > div
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div#scrolltocbt
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.template-5
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.saboxplugin-wrap
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(9)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-0956246db0261c74acf2cd049a6c7d63
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-8de70ae506e21184ba2ce46fc3240ae9
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###scrolltocbt > div > div > h1
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(15)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box1
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(7)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(10)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###videoGuide2
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##div:nth-of-type(17)
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.adv-2d939a90a950677f0830ca90d8e0dcba
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen3
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-big-leaderboard-1
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box3
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###revbid-square-7
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen1
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.pfad.box-hidden2
+finance240.com,sinonimos.de,2wheelslife.com,business4.cryptednews.space,business.cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##.enhanced-reading
 
 
 ! CLKS
@@ -252,6 +257,9 @@ substitutefor.com,thefitbrit.co.uk,appetizingeat.com,earnfromyourlaptop.com,bore
 
 
 ! Rsshort
+@@||delivery.r2b2.io/get/rsinsuranceinfo.com/generic/300x250$script,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
+@@||delivery.r2b2.io/get/rsinsuranceinfo.com/generic/sticky$script,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
+@@||headerbidding.ai/publishers/clnt/U1178-W2244/hbmaster.js$script,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
 @@*$ghide,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
 armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##+js(set-cookie, __gads, 1)
@@ -262,13 +270,18 @@ armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioin
 armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##.a, .b, .c, .d, .e, .f, .g
 armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com##.site-logo
 armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioinfo.com,gknutshell.com,savemoneyinfo.com,cxissuegk.com,makeincomeinfo.com,motivmindinfo.com,learnmarketinfo.com,worldaffairinfo.com,bhugolinfo.com,worldeconomicsinfo.com,godstoryinfo.com,successstoryinfo.com,workproductivityinfo.com,vichitrainfo.com,phonereviewinfo.com,rsadnetworkinfo.com,rsinsuranceinfo.com,rsfinanceinfo.com,rsgamer.app,rssoftwareinfo.com,rshostinginfo.com,rseducationinfo.com###click p
+@@||www.headerbidding.ai/publishers/clnt/U1178-W2152/hbmaster.js$script,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
+@@||delivery.r2b2.io/get/rshostinginfo.com/generic/sticky$script,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
+@@||track.us.org/events?u=https%3A%2F%2Frsinsuranceinfo.com%2FTypes-of-Insurance$xhr,domain=rsadnetworkinfo.com|rsinsuranceinfo.com|rsfinanceinfo.com|rsgamer.app|rssoftwareinfo.com|rshostinginfo.com|rseducationinfo.com|laweducationinfo.com|dopomininfo.com|artoffocas.com|phonereviewinfo.com|vichitrainfo.com|workproductivityinfo.com|successstoryinfo.com|worldeconomicsinfo.com|bhugolinfo.com|worldaffairinfo.com|learnmarketinfo.com|motivmindinfo.com|makeincomeinfo.com|cxissuegk.com|savemoneyinfo.com|godstoryinfo.com|gknutshell.com|animalioinfo.com|armypowerinfo.com
 
 
 ! Blog24
-blog24.me,aiimgvlog.fun##+js(rmnt, script, /window\.location|Adblock/)
-blog24.me,aiimgvlog.fun##+js(acs, document.createElement, adsBlocked)
-blog24.me,aiimgvlog.fun##+js(aost, onload, inlineScript)
-blog24.me,aiimgvlog.fun##+js(noeval-if, /chp_?ad/)
+sl.btc25.org,adbx.pro,blog24.me,aiimgvlog.fun##+js(rmnt, script, /window\.location|Adblock/)
+sl.btc25.org,blog24.me,aiimgvlog.fun##+js(acs, document.createElement, adsBlocked)
+sl.btc25.org,blog24.me,aiimgvlog.fun##+js(aost, onload, inlineScript)
+sl.btc25.org,blog24.me,aiimgvlog.fun##+js(noeval-if, /chp_?ad/)
+sl.btc25.org,blog24.me,aiimgvlog.fun##form[id]:style(display: block !important;)
+sl.btc25.org,blog24.me,aiimgvlog.fun##form > div[id][style="display: none;"]:style(display: block !important;)
 blog24.me,aiimgvlog.fun##+js(no-xhr-if, popunder)
 blog24.me,aiimgvlog.fun##+js(acs, eval, replace)
 blog24.me,aiimgvlog.fun##+js(acs, addEventListener, google_ad_client)
@@ -276,8 +289,6 @@ blog24.me,aiimgvlog.fun##+js(aopw, AdbModel)
 blog24.me,aiimgvlog.fun##+js(aeld, , popMagic)
 blog24.me,aiimgvlog.fun##+js(set, protection, noopFunc)
 blog24.me,aiimgvlog.fun##+js(set, document.hasFocus, trueFunc)
-blog24.me,aiimgvlog.fun##form[id]:style(display: block !important;)
-blog24.me,aiimgvlog.fun##form > div[id][style="display: none;"]:style(display: block !important;)
 blog24.me,aiimgvlog.fun#@#+js(acs, document.createElement, adsBlocked)
 blog24.me,aiimgvlog.fun###widescreen2
 blog24.me,aiimgvlog.fun##div[id][style="position:fixed;bottom: 0px;left: 0px;z-index:999999;"]
@@ -332,22 +343,22 @@ go.aiimgvlog.fun###aswift_0_host
 go.aiimgvlog.fun##.adsbygoogle-noablate.adsbygoogle
 go.aiimgvlog.fun##.custom-info
 go.aiimgvlog.fun###content > center > b > b > [src]
-||blog24.me|aiimgvlog.fun/dss.php$script
-||blog24.me|aiimgvlog.fun/ad*html$frame,1p
-||blog24.me|aiimgvlog.fun^$frame,domain=blog24.me
-@@||aiimgvlog.fun|go.aiimgvlog.fun|blog24.me^$ghide
-@@||googletagmanager.com^$domain=blog24.me|aiimgvlog.fun
-@@||googletagmanager.com^$script,domain=blog24.me|aiimgvlog.fun
-@@||pagead2.googlesyndication.com^$domain=blog24.me|aiimgvlog.fun
-@@||pagead2.googlesyndication.com^$xhr,script,domain=blog24.me|aiimgvlog.fun
-@@||static.surfe.pro/js/net.js$script,domain=blog24.me|aiimgvlog.fun
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=blog24.me|aiimgvlog.fun
-@@||hbagency.it^$script,domain=blog24.me|aiimgvlog.fun
-@@||securepubads.g.doubleclick.net^$script,domain=blog24.me|aiimgvlog.fun
-@@*$script,1p,domain=blog24.me|aiimgvlog.fun
-@@||tpc.googlesyndication.com^$script,domain=blog24.me|aiimgvlog.fun
-@@||cdn.bmcdn6.com^$script,xhr,image,domain=blog24.me|aiimgvlog.fun
-@@||surfe.pro^$script,xhr,image,domain=blog24.me|aiimgvlog.fun
+||blog24.me|aiimgvlog.fun|sl.btc25.org/dss.php$script
+||blog24.me|aiimgvlog.fun|sl.btc25.org/ad*html$frame,1p
+||blog24.me|aiimgvlog.fun|sl.btc25.org^$frame,domain=blog24.me
+@@||aiimgvlog.fun|go.aiimgvlog.fun|blog24.me|sl.btc25.org^$ghide
+@@||googletagmanager.com^$domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||googletagmanager.com^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||pagead2.googlesyndication.com^$domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||pagead2.googlesyndication.com^$xhr,script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||static.surfe.pro/js/net.js$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||hbagency.it^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||securepubads.g.doubleclick.net^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@*$script,1p,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||tpc.googlesyndication.com^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||cdn.bmcdn6.com^$script,xhr,image,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+@@||surfe.pro^$script,xhr,image,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
 
 
 ! GPlink
@@ -430,4 +441,4 @@ en.financerites.com##form:others()
 ||cloudfront.net/?tid$script,3p,replace=/disabled|undefined/false/g,domain=ebaticalfel.com|fansmega.com|iedprivatedqu.com|stownrusis.com
 ||youtube.com^$domain=ebaticalfel.com|fansmega.com|iedprivatedqu.com|stownrusis.com
 ebaticalfel.com,fansmega.com,iedprivatedqu.com,stownrusis.com##+js(nano-sib, /.?/, *, 0.001)
-ebaticalfel.com,fansmega.com,iedprivatedqu.com,stownrusis.com##+js(nano-stb, /.?/, *, 0.001)
+ebaticalfel.com,fansmega.com,iedprivatedqu.com,stownrusis.com##+js(nano-stb, /.?/, *, 0.001
