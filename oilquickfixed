@@ -232,19 +232,19 @@ btcbitco.in,btcsatoshi.net,wiour.com,readbitcoin.org,crypto4yu.com#@#div.text-ce
 readbitcoin.org,crypto4yu.com##div.text-center[id]:style(height: 100px !important;)
 btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com#@#div.text-center[id]:style(height: 120px !important;)
 btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com,gainl.ink#@#iframe[src*="/ads/show.php"]
-@@||googletagmanager.com/gtag/js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com
-@@||hbagency.it/cdn/tcf2_cmp_hbagency.js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com
-@@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org|dailytech-news.eu
-@@||surfe.pro^$xhr,domain=btcbitco.in|btcsatoshi.net|readbitcoin.org|crypto4yu.com|dailytech-news.eu
-@@*$script,domain=readbitcoin.org|crypto4yu.com|btcbitco.in|btcsatoshi.net|dailytech-news.eu|moonboom.net
-/invoke.js$script,redirect-rule=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.com|chillfaucet.in|claimfreetrx.online|dailytech-news.eu|moonboom.net
-||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.co|chillfaucet.in|claimfreetrx.online|dailytech-news.eu|moonboom.net
-moonboom.net,dailytech-news.eu,ohionowcast.info,cryptozao.com,bakumoney.online,gaminginfos.com#@#ins.adsbygoogle
-*$frame,redirect-rule=noopframe,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com
-*$xhr,redirect-rule=nooptext,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com
-*$script,redirect-rule=noopjs,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com
-*$image,redirect-rule=32x32.png:5,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com
-moonboom.net,dailytech-news.eu,claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com#@#+js(abort-current-script, window.onload, innerHTML)
+! @@||googletagmanager.com/gtag/js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com|exactpay.online
+! @@||hbagency.it/cdn/tcf2_cmp_hbagency.js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com|exactpay.online
+! @@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org|dailytech-news.eu|exactpay.online
+! @@||surfe.pro^$xhr,domain=btcbitco.in|btcsatoshi.net|readbitcoin.org|crypto4yu.com|dailytech-news.eu|exactpay.online
+@@*$script,domain=readbitcoin.org|crypto4yu.com|btcbitco.in|btcsatoshi.net|dailytech-news.eu|moonboom.net|exactpay.online
+/invoke.js$script,redirect-rule=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.com|chillfaucet.in|claimfreetrx.online|dailytech-news.eu|moonboom.net|exactpay.online
+||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.co|chillfaucet.in|claimfreetrx.online|dailytech-news.eu|moonboom.net|exactpay.online
+exactpay.online,moonboom.net,dailytech-news.eu,ohionowcast.info,cryptozao.com,bakumoney.online,gaminginfos.com#@#ins.adsbygoogle
+*$frame,redirect-rule=noopframe,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
+*$xhr,redirect-rule=nooptext,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
+*$script,redirect-rule=noopjs,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
+*$image,redirect-rule=32x32.png:5,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
+exactpay.onlineblog24.me,moonboom.net,dailytech-news.eu,claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com#@#+js(abort-current-script, window.onload, innerHTML)
 moonboom.net###revbid-leaderboard-41
 moonboom.net###close-anchor-bottom-button > div
 moonboom.net###close-anchor-top-button
