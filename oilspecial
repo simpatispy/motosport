@@ -276,89 +276,45 @@ armypowerinfo.com,laweducationinfo.com,dopomininfo.com,artoffocas.com,animalioin
 
 
 ! Blog24
-sl.btc25.org,adbx.pro,blog24.me,aiimgvlog.fun##+js(rmnt, script, /window\.location|Adblock/)
-sl.btc25.org,blog24.me,aiimgvlog.fun##+js(acs, document.createElement, adsBlocked)
-sl.btc25.org,blog24.me,aiimgvlog.fun##+js(aost, onload, inlineScript)
-sl.btc25.org,blog24.me,aiimgvlog.fun##+js(noeval-if, /chp_?ad/)
-sl.btc25.org,blog24.me,aiimgvlog.fun##form[id]:style(display: block !important;)
-sl.btc25.org,blog24.me,aiimgvlog.fun##form > div[id][style="display: none;"]:style(display: block !important;)
-blog24.me,aiimgvlog.fun##+js(no-xhr-if, popunder)
-blog24.me,aiimgvlog.fun##+js(acs, eval, replace)
-blog24.me,aiimgvlog.fun##+js(acs, addEventListener, google_ad_client)
-blog24.me,aiimgvlog.fun##+js(aopw, AdbModel)
-blog24.me,aiimgvlog.fun##+js(aeld, , popMagic)
-blog24.me,aiimgvlog.fun##+js(set, protection, noopFunc)
-blog24.me,aiimgvlog.fun##+js(set, document.hasFocus, trueFunc)
-blog24.me,aiimgvlog.fun#@#+js(acs, document.createElement, adsBlocked)
-blog24.me,aiimgvlog.fun###widescreen2
-blog24.me,aiimgvlog.fun##div[id][style="position:fixed;bottom: 0px;left: 0px;z-index:999999;"]
-blog24.me,aiimgvlog.fun##+js(set, isRequestPresent, true)
-blog24.me,aiimgvlog.fun##+js(rmnt, script, location.assign)
-blog24.me,aiimgvlog.fun##+js(rmnt, script, location.href)
-blog24.me,aiimgvlog.fun##+js(aopr, localStorage)
-blog24.me,aiimgvlog.fun##[src="https://i.ibb.co/9rqFz6k/Photo-Room-20231004-175829.png"]
-blog24.me,aiimgvlog.fun##strong, h3
-blog24.me,aiimgvlog.fun##h1 > p
-blog24.me,aiimgvlog.fun###click p
-blog24.me,aiimgvlog.fun###content > h3
-blog24.me,aiimgvlog.fun##.ad-container
-blog24.me,aiimgvlog.fun##.custom-info > iframe
-blog24.me,aiimgvlog.fun###content > center > [href] > [src]
-aiimgvlog.fun##.sidebar-container > .sidebar-left
-aiimgvlog.fun##.sidebar-container > .sidebar-right
-aiimgvlog.fun##iframe[src="https://aiimgvlog.fun/mfwalton/ad.php"]
-aiimgvlog.fun##b > center > [href] > [src]
-blog24.me##[src="https://i.imgur.com/cJkZfjh.png"]
-blog24.me##[src="https://i.imgur.com/1wp8X55.jpeg"]
-blog24.me###\37 6a8e32d0ff6f8f4856a502ebe1daccffb23aab034c8756f579cee5afadb19b8 > center > div > div
-blog24.me###\35 39c1c1dbe2d694464c31c4e1493229ddd92967c239492f7a1af76150575056e > center > div > div
-blog24.me###google_ads_iframe_\/22195652661\/blog24\.me_1container
-blog24.me###google_ads_iframe_\/22195652661\/blog24\.me_0container
-blog24.me##.adsbygoogle-noablate.adsbygoogle
-blog24.me##.custom-info > center > center > center > center > div
-blog24.me##.custom-info > center > center > center > div
-blog24.me##.custom-info > center > div
-blog24.me###\30 87f8f0a7c67d7d39ad51ca24444b797f0f6aeaf0b27ad3ee30137f96a601daf > center > div > div
-blog24.me##body > center > center > b > b > center
-blog24.me##.custom-info > center > center > center > div > .adsbygoogle-noablate.adsbygoogle
-blog24.me##center > center > center > center > center > center > div
-blog24.me##.custom-info .adsbygoogle-noablate.adsbygoogle
-blog24.me##.custom-info > center > center > center > center > center > div
-blog24.me##.custom-info > center > center > center > center > div
-blog24.me##.custom-info > center > center > center > div
-blog24.me##.custom-info > center > div
-go.blog24.me##h1:nth-of-type(1)
-go.blog24.me##h1 > b > b > center > div
-go.blog24.me###content > b
-go.blog24.me##b > center > center
-go.blog24.me##body > .sidebar-right
-go.blog24.me##[src="https://adbx.pro/logo.jpg"]
-news.blog24.me###\37 91e640705182168f03665f4b7f27d2d389b8dce452a592fab0c3780620e0db8 > center > div > div
-news.blog24.me##body > center > center > center > div
-news.blog24.me##.custom-info > div
-aiimgvlog.fun##b > center > center
-go.aiimgvlog.fun##h1 > b > b
-go.aiimgvlog.fun###\31 600080000006-1 > iframe[src="about:blank"]
-go.aiimgvlog.fun###aswift_0_host
-go.aiimgvlog.fun##.adsbygoogle-noablate.adsbygoogle
-go.aiimgvlog.fun##.custom-info
-go.aiimgvlog.fun###content > center > b > b > [src]
-||blog24.me|aiimgvlog.fun|sl.btc25.org/dss.php$script
-||blog24.me|aiimgvlog.fun|sl.btc25.org/ad*html$frame,1p
-||blog24.me|aiimgvlog.fun|sl.btc25.org^$frame,domain=blog24.me
-@@||aiimgvlog.fun|go.aiimgvlog.fun|blog24.me|sl.btc25.org^$ghide
-@@||googletagmanager.com^$domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||googletagmanager.com^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||pagead2.googlesyndication.com^$domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||pagead2.googlesyndication.com^$xhr,script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||static.surfe.pro/js/net.js$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||hbagency.it^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||securepubads.g.doubleclick.net^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@*$script,1p,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||tpc.googlesyndication.com^$script,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||cdn.bmcdn6.com^$script,xhr,image,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
-@@||surfe.pro^$script,xhr,image,domain=blog24.me|aiimgvlog.fun|sl.btc25.org
+blog24.me#@#+js(aeld, DOMContentLoaded, adsBlocked)
+blog24.me#@#+js(aeld, load, htmls)
+blog24.me#@#+js(nostif, alert)
+blog24.me#@#+js(aopr, Swal.fire)
+blog24.me#@#^script:has-text(htmls)
+blog24.me#@#+js(set, isRequestPresent, true)
+blog24.me#@#+js(rmnt, script, location.assign)
+blog24.me#@#+js(rmnt, script, location.href)
+*$script,redirect-rule=noopjs,domain=blog24.me
+*$xhr,redirect-rule=nooptext,domain=blog24.me
+||blog24.me/dss.php$script
+||blog24.me/ad*html$frame,1p
+||aiimgvlog.fun^$frame,domain=blog24.me
+@@||blog24.me^$ghide
+blog24.me##form > [id]:style(display: block !important;)
+@@||pagead2.googlesyndication.com^$xhr,domain=blog24.me
+blog24.me#@#.adb-overlay
+blog24.me###revbid-mobile-70
+news.blog24.me,blog24.me##b > .info-box
+blog24.me##.background-box > b > .mb-3.text-center
+news.blog24.me###\36 68bd9ccf03cf > .info-box
+news.blog24.me###revbid-skyscraper-64
+news.blog24.me###revbid-square-326
+news.blog24.me###revbid-square-323
+news.blog24.me###revbid-big-leaderboard-72
+news.blog24.me###revbid-leaderboard-163
+news.blog24.me##.container > div.mb-3.text-center > center
+blog24.me###revbid-skyscraper-64
+blog24.me###revbid-square-323
+blog24.me###revbid-square-326
+blog24.me###revbid-big-leaderboard-72
+blog24.me###revbid-leaderboard-163
+blog24.me##b > b > div.mb-3.text-center > center > center > div
+blog24.me##.container > .mb-3.text-center > center > div
+blog24.me##div.mb-3.text-center:nth-of-type(2) > center > center > center > center > center > center > div
+blog24.me##div.mb-3.text-center:nth-of-type(6) > center > div
+blog24.me##center > center > center > center > center > center > center > center > div
+blog24.me##div.mb-3.text-center > center > center > center > center > center > center > center > div
+blog24.me##b > b > div.mb-3.text-center > center
 
 
 ! GPlink
