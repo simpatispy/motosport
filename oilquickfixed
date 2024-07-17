@@ -65,8 +65,8 @@ coinpayz.xyz,best-shopme.com##+js(aopr, adsBlocked)
 ||ezbit.co.in/ui/assets/js/honeypot.js$script,1p
 xcryptos.site,read4btc.com,paylinks.cloud,coinsrev.com,en.revly.click,go2.freetrx.fun,cempakajaya.com,masarnajih.com,healthmart.link,bitzite.com,bitcosite.com,brafaucet.site,bakumoney.com,coinsl.click,coredao.tech,sh.techsamir.com##^script:has-text(htmls)
 xcryptos.site,read4btc.com,paylinks.cloud,coinsrev.com,en.revly.click,go2.freetrx.fun,cempakajaya.com,masarnajih.com,healthmart.link,bitzite.com,bitcosite.com,brafaucet.site,bakumoney.com,coinsl.click,coredao.tech,sh.techsamir.com##+js(aeld, load, htmls)
-coinpayz.xyz,whoopyrewards.com##+js(acs, document.getElementById, adsBlocked)
-coinpayz.xyz,whoopyrewards.com##+js(rmnt, script, adblock)
+forumcoin.win,freeltc.online,coinpayz.xyz,whoopyrewards.com##+js(acs, document.getElementById, adsBlocked)
+forumcoin.win,freeltc.online,coinpayz.xyz,whoopyrewards.com##+js(rmnt, script, adblock)
 whoopyrewards.com##.ads > div
 cryptly.pro##+js(acs, $, googleAdUrl)
 @@||pagead2.googlesyndication.com^$domain=hatecoin.link|alpinecorporate.com|pernahsukses.com|surflink.tech|missreview.info|autodime.com|banfaucet.com|mcrypto.club|fight4crypto.online|go2.freetrx.fun|freeclaimfaucet.com|cryptogenz.fun|app.covemarkets.com|link1s.com|faucet-bit.com|market-games.info|super.offerboom.top|solarchaine.com|super.offerboom.top|coinsrev.com|crypto4yu.com|readbitcoin.org|cryptorotator.website|rapidshortsurl.pro.lat|gktech.uk|free-pepe.com|adsy.pw|faucetex.top|freeltc.online|whoopyrewards.com|uprwssp.org|finance.helpdeep.com|webseriesreel.in|helpowi.com|hosting.helpowi.com|hostings.helpowi.com|daddy.helpowi.com|hosting.remixone.in|h2.helpowi.com|h2.remixone.in|hostings.remixone.in|adsbtc.fun|dealprice.co|kyawnyar.site|hosty.tipsloanusa.com|cashbux.work|nobitafc.com|earnfeyonline.online|neverdims.com|earncrypto.online|cryptovertz.com|remixone.in|cryptly.pro|reintroducing.us|coingux.com|cryptobigpay.online|askpaccosi.com|hatelink.me
@@ -79,7 +79,8 @@ appsbull.com,diudemy.com,maqal360.com###tristana, #_append, #myDiv:style(display
 appsbull.com,diudemy.com,maqal360.com##+js(aeld, load, htmls)
 appsbull.com,diudemy.com,maqal360.com##+js(rmnt, script, onerror)
 @@||cdn.jsdelivr.net^$script,domain=appsbull.com|diudemy.com|maqal360.com
-appsbull.com,diudemy.com,maqal360.com##+js(set, private, false)
+appsbull.com,diudemy.com##+js(set, private, false)
+maqal360.com#@#+js(set, private, false)
 appsbull.com,diudemy.com,maqal360.com##+js(rpnt, script, "'IFRAME'", "'BODY'")
 diudemy.com,maqal360.com##div.bannerTap:nth-of-type(1)
 diudemy.com,maqal360.com##p
@@ -205,46 +206,38 @@ ielts-isa.edu.vn##^script:has-text(AdBlocker)
 !#else
 ielts-isa.edu.vn##+js(rmnt, script, AdBlocker)
 !#endif
-sl.btc25.org,moonboom.net,dailytech-news.eu,exactpay.online##+js(aopr, htmls)
-sl.btc25.org,moonboom.net,dailytech-news.eu,exactpay.online##+js(set, document.hasFocus, trueFunc)
+blog24.me,sl.btc25.org,moonboom.net,dailytech-news.eu,exactpay.online##+js(aopr, htmls)
+blog24.me,sl.btc25.org,moonboom.net,dailytech-news.eu,exactpay.online##+js(set, document.hasFocus, trueFunc)
 ||exactpay.online/forex/index.js
 exalink.fun##+js(set, blurred, false)
 sl.btc25.org,moonboom.net,dailytech-news.eu,exactpay.online##+js(aopr, Swal.fire)
 exactpay.online##iframe[src^="https://cryptocoinsad.com/"]
 ||exactpay.online/Bitmedia.html$redirect=noop.html
-sl.btc25.orgmoonboom.net,dailytech-news.eu,exactpay.online##+js(acs, addEventListener, ads)
-sl.btc25.org,moonboom.net,dailytech-news.eu,exactpay.online##div[align="center"][id]:style(height: 30px !important;)
+blog24.me,sl.btc25.orgmoonboom.net,dailytech-news.eu,exactpay.online##+js(acs, addEventListener, ads)
 exactpay.online##.justify-content-center.row
 exactpay.online##div.mb-3.text-center
-sl.btc25.org,moonboom.net,dailytech-news.eu,cryptofee.top,bitzite.com,dinheirocrypto.online,btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,gainl.ink,maqal360.com,instantcrypto.info,earnsolana.xyz,ohionowcast.info,read4btc.com,cryptozao.com,gaminginfos.com,games.offerwhales.com,go2.freetrx.fun,bakumoney.com,coinsl.click,coinsrev.com,en.revly.click,link.oscut.fun,chillfaucet.in,claimfreetrx.online##+js(aopr, htmls)
-sl.btc25.orgmoonboom.net,dailytech-news.eu,cryptofee.top,bitzite.com,dinheirocrypto.online,btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,bakumoney.com,coinsl.click,coinsrev.com,en.revly.click,link.oscut.fun,chillfaucet.in,claimfreetrx.online##+js(acs, document.getElementById, ads)
-@@||www.googletagmanager.com^$script,domain=crypto4yu.com|readbitcoin.org|bakumoney.com|ohionowcast.info|cryptozao.com|gaminginfos.com|games.offerwhales.com|chillfaucet.in|claimfreetrx.online|cryptofee.top|dailytech-news.eu|sl.btc25.org
-@@||crypto4yu.com^$ghide
-@@||readbitcoin.org^$ghide
+jeuxenligne.xyz,exactpay.online,blog24.me,moonboom.net,dailytech-news.eu,chillfaucet.in##+js(aopr, htmls)
+jeuxenligne.xyz,exactpay.online,blog24.me,moonboom.net,dailytech-news.eu,chillfaucet.in##+js(acs, document.getElementById, ads)
+@@||www.googletagmanager.com^$script,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
 @@||exactpay.online^$ghide
-@@||ohionowcast.info^$ghide
-@@||gaminginfos.com^$ghide
 @@||dailytech-news.eu^$ghide
 @@||moonboom.net^$ghide
-@@||viefaucet.com^$ghide
-@@||sl.btc25.org^$ghide
-btcbitco.in,btcsatoshi.net,wiour.com,readbitcoin.org,crypto4yu.com#@#div.text-center[id]:style(height: 60px !important;)
-readbitcoin.org,crypto4yu.com##div.text-center[id]:style(height: 100px !important;)
-btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com#@#div.text-center[id]:style(height: 120px !important;)
-btcbitco.in,btcsatoshi.net,crypto4yu.com,readbitcoin.org,wiour.com,gainl.ink#@#iframe[src*="/ads/show.php"]
-! @@||googletagmanager.com/gtag/js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com|exactpay.online
-! @@||hbagency.it/cdn/tcf2_cmp_hbagency.js$domain=btcsatoshi.net|wiour.com|readbitcoin.org|crypto4yu.com|exactpay.online
-! @@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org|dailytech-news.eu|exactpay.online
-! @@||surfe.pro^$xhr,domain=btcbitco.in|btcsatoshi.net|readbitcoin.org|crypto4yu.com|dailytech-news.eu|exactpay.online
-@@*$script,domain=readbitcoin.org|crypto4yu.com|btcbitco.in|btcsatoshi.net|dailytech-news.eu|moonboom.net|exactpay.online
-/invoke.js$script,redirect-rule=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.com|chillfaucet.in|claimfreetrx.online|dailytech-news.eu|moonboom.net|exactpay.online
-||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=btcbitco.in|btcsatoshi.net|wiour.co|chillfaucet.in|claimfreetrx.online|dailytech-news.eu|moonboom.net|exactpay.online
-exactpay.online,moonboom.net,dailytech-news.eu,ohionowcast.info,cryptozao.com,bakumoney.online,gaminginfos.com#@#ins.adsbygoogle
-*$frame,redirect-rule=noopframe,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
-*$xhr,redirect-rule=nooptext,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
-*$script,redirect-rule=noopjs,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
-*$image,redirect-rule=32x32.png:5,domain=ohionowcast.info|cryptozao.com|gaminginfos.com|go2.freetrx.fun|chillfaucet.in|onlyfaucet.com|claimfreetrx.online|dailytech-news.eu|moonboom.net|indfaucet.com|exactpay.online
-exactpay.onlineblog24.me,moonboom.net,dailytech-news.eu,claimfreetrx.online,chillfaucet.in,ohionowcast.info,cryptozao.com,gaminginfos.com#@#+js(abort-current-script, window.onload, innerHTML)
+@@||jeuxenligne.xyz^$ghide
+@@||googletagmanager.com/gtag/js$domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+@@||hbagency.it/cdn/tcf2_cmp_hbagency.js$domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+@@||static.surfe.pro/js/net.js$domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+@@||surfe.pro^$xhr,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+@@*$script,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+/invoke.js$script,redirect-rule=noop.js,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+||cryptocoinsad.com/ads/js/popunder.js$script,redirect=noop.js,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+jeuxenligne.xyz,exactpay.online,moonboom.net,dailytech-news.eu,ohionowcast.info,cryptozao.com,bakumoney.online,gaminginfos.com#@#ins.adsbygoogle
+*$frame,redirect-rule=noopframe,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+*$xhr,redirect-rule=nooptext,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+*$script,redirect-rule=noopjs,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+*$image,redirect-rule=32x32.png:5,domain=jeuxenligne.xyz|exactpay.online|blog24.me|moonboom.net|dailytech-news.eu|chillfaucet.in
+jeuxenligne.xyz,exactpay.online,blog24.me,moonboom.net,dailytech-news.eu,chillfaucet.in#@#+js(abort-current-script, window.onload, innerHTML)
+jeuxenligne.xyz,exactpay.online,blog24.me,moonboom.net,dailytech-news.eu,chillfaucet.in##.g-recaptcha:upward(form > div):style(display: block !important;)
+jeuxenligne.xyz,exactpay.online,blog24.me,moonboom.net,dailytech-news.eu,chillfaucet.in###form > [id], [id^="wpsafe-link"], [id^="plan"], .wpsafelink-button, #wpsafelinkhuman, [id][style="display: none;"]:style(display: block !important;)
 moonboom.net###revbid-leaderboard-41
 moonboom.net###close-anchor-bottom-button > div
 moonboom.net###close-anchor-top-button
@@ -377,7 +370,6 @@ cety.app,civfok.com,cutnet.net,cutyy.com,cutado.com,cutlink.net,cutsy.net,cutyur
 cety.app,civfok.com,cutnet.net,cutyy.com,cutado.com,cutlink.net,cutsy.net,cutyurls.com,cutty.app##+js(aeld, click, handleClick)
 vcivfok.com,cutnet.net,cutyy.com,cutado.com,cutlink.net,cutsy.net##+js(set, blurred, false)
 diudemy.com#@#+js(aopr, document.write)
-maqal360.com##+js(rmnt, script, "'IFRAME'", "'BODY'")
 @@||pagead2.googlesyndication.com^$domain=cultfitlife.online|livejankari.com
 livejankari.com,cultfitlife.online##+js(noeval-if, /chp_?ad/)
 livejankari.com,cultfitlife.online###click
@@ -1985,6 +1977,12 @@ litecoinbits.com##center
 litecoinbits.com##.justify-content-center.d-flex.mt-2.container
 exactpay.online##.section > .container > div > div > div
 exactpay.online##.section > .container > div > div
+exactpay.online###close-anchor-bottom-button > div
+exactpay.online###close-anchor-top-button > div
+exactpay.online###close-anchor-left-button > div
+exactpay.online###close-anchor-right-button > div
+exactpay.online###aswift_0_host
+exactpay.online##body > ins.adsbygoogle-noablate.adsbygoogle
 indfaucet.com###ct_cnCzYQNYA6t_disp
 indfaucet.com###banner-container
 indfaucet.com##body > div > span
@@ -2001,3 +1999,42 @@ sl.btc25.org###revbid-leaderboard-162
 sl.btc25.org##.section > .container
 sl.btc25.org##.section > div.mb-3.text-center
 sl.btc25.org###revbid-mobile-69
+freeltc.online##.left-ads.p-0.order-md-1.col-lg-3.col-md-2.col-6
+freeltc.online##.right-ads.p-0.order-md-3.col-lg-3.col-md-2.col-6
+freeltc.online##form > .ads
+freeltc.online##div.ads:nth-of-type(5)
+freeltc.online##div.ads:nth-of-type(2)
+freeltc.online##body > div:nth-of-type(3)
+shorturlgetmoney.xyz,shortenblog.com##.banner-inner
+shorturlgetmoney.xyz,shortenblog.com##.text-left
+shorturlgetmoney.xyz,shortenblog.com##.navbar-default.navbar
+shorturlgetmoney.xyz,shortenblog.com##footer
+shorturlgetmoney.xyz,shortenblog.com###cookie-pop
+shorturlgetmoney.xyz,shortenblog.com###frame
+jeuxenligne.xyz##.ad-container
+short.cryptly.site,shortslink.pro##.navbar-default.navbar
+short.cryptly.site,shortslink.pro##footer
+short.cryptly.site,shortslink.pro###cookie-pop
+forumcoin.win##.header-footer-group.has-text-align-center.entry-header
+forumcoin.win##.header-footer-group.footer-nav-widgets-wrapper
+forumcoin.win###site-footer
+forumcoin.win###banner_advert_wrapper_630
+forumcoin.win##p.alert-info.alert:nth-of-type(3)
+forumcoin.win##.red.notice-top.global-notice
+jeuxenligne.xyz###\36 6925e9524d89
+jeuxenligne.xyz##[src="https://www.jeuxenligne.xyz/images/press.jpg"]
+shortbr.c1.is##+js(rmnt, script, adblock)
+d13links.online##.text-left.blog-item
+d13links.online##div.banner-captcha.banner
+d13links.online##.navbar
+||autocoin.in/banner/1705/*0$subdocument
+linkmoni.com##.text-white.bg-primary
+linkmoni.com###cookie-pop
+linkmoni.com##h5
+linkmoni.com##.banner-336x280.banner
+lkfms.pro##.text-left
+lkfms.pro###cookie-pop
+lkfms.pro##th
+pwrpa.cc##.text-left
+ielts-isa.edu.vn,azmath.info##.content-area
+ielts-isa.edu.vn,azmath.info##.inside-right-sidebar
