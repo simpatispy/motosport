@@ -214,27 +214,16 @@ maqal360.com#@#+js(set, private, false)
 appsbull.com,diudemy.com,maqal360.com##+js(rpnt, script, "'IFRAME'", "'BODY'")
 diudemy.com#@#+js(aopr, document.write)
 ! Profitsfly
-@@||doubleclick.net^$domain=blackwoodacademy.org
-@@||doubleclick.net^$domain=starkroboticsfrc.com
-@@||doubleclick.net^$domain=tiktokcounter.net
-@@||doubleclick.net^$domain=seoliv.com
-@@||doubleclick.net^$domain=cryptednews.space
-@@||doubleclick.net^$domain=2wheelslife.com
-@@||doubleclick.net^$domain=sinonimos.de
-@@||doubleclick.net^$domain=finance240.com
-||netpub.media^$third-party,badfilter
-||netpub.media^$third-party^$from=~blackwoodacademy.org|~starkroboticsfrc.com
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(rpnt, script, fetch, true)
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, ads)
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(no-fetch-if, method:HEAD)
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isFirstClickDone, true)
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isAdClickDone, true)
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assDidCkeDone, true)
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assholeWhoReadThis, true)
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8, #box9, #box10, #box11, #box12, #box13, #box14, #box15
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###tower1, #tower2, #tower3, #tower4, #tower5, #tower6, #tower7, #tower8, #tower9
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen1, #widescreen2, #widescreen3, #widescreen4, #widescreen5, #widescreen6, #widescreen7, #widescreen8, #widescreen9
-finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##p, h1, h2, h3, h4, h5, li, #scrolltocbt, #videoGuide, outer-red-rectangle, .saboxplugin-wrap
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, isFirstClickDone, true)
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(set, isAdClickDone, true)
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assDidCkeDone, true)
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##+js(set, assholeWhoReadThis, true)
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8, #box9, #box10, #box11, #box12, #box13, #box14, #box15
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###tower1, #tower2, #tower3, #tower4, #tower5, #tower6, #tower7, #tower8, #tower9
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org###widescreen1, #widescreen2, #widescreen3, #widescreen4, #widescreen5, #widescreen6, #widescreen7, #widescreen8, #widescreen9
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org##p, h1, h2, h3, h4, h5, li, #scrolltocbt, #videoGuide, outer-red-rectangle, .saboxplugin-wrap
+@@||doubleclick.net^
+freeat30.org,retrotechreborn.com,viralfeed.xyz,abovethesound.com,finance240.com,sinonimos.de,2wheelslife.com,cryptednews.space,seoliv.com,starkroboticsfrc.com,tiktokcounter.net,blackwoodacademy.org#@#+js(trusted-replace-node-text, script, /^([^{])/, "document.addEventListener('DOMContentLoaded',()=>{const i=document.createElement('iframe');i.style='height:0;width:0;border:0';i.id='aswift_0';document.body.appendChild(i);i.focus();const f=document.createElement('div');f.id='9JJFp';document.body.appendChild(f);});$1", sedCount, 2)
 ! GPlink
 @@*$ghide,domain=gplinks.*|djrkmusicjaunpur.in|newsbatas.com|djapmusic.in
 @@*$script,xhr,to=googlesyndication.com|doubleclick.net,from=techreviewhere.com|djrkmusicjaunpur.in|newsbatas.com|djapmusic.in
