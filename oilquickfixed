@@ -445,10 +445,12 @@ imagereviser.com,techcyan.com,kiktu.com,upshrink.com,trangchu.news,banaraswap.in
 ||imagereviser.com/wp-content/plugins/azee-safelink/img/play*.jpg$image,1p
 ||imagereviser.com/wp-content/plugins/azee-safelink/img/StartDownload*.gif$image,1p
 imagereviser.com,kiktu.com,techcyan.com##a[href*=".click"]:style(opacity: 0.01 !important; pointer-events: none !important;)
-imagereviser.com,kiktu.com,techcyan.com###websgridlink, #finalx, #second_btn_div, #bottom_btn, .bottom_btn, #wg-geny, #wg-genx, [src*="google.com/recaptcha"]:others()
-tensailab.com,otechno.net,trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###go_d:remove-attr(disabled)
-a4a.site,otechno.net,trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###submitBtn, #go_d, #devozon-snp, #submitBtn, #tp-snp1, #go_d2:others()
-a4a.site,tensailab.com,otechno.net,trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###submitBtn, #go_d, #devozon-snp, #submitBtn, #tp-snp1, #go_d2:style(display: block !important;)
+tensailab.com,tizrte.xyz,otechno.net,trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###go_d:remove-attr(disabled)
+a4a.site,tizrte.xyz,otechno.net,trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###submitBtn, #go_d, #devozon-snp, #submitBtn, #tp-snp1, #go_d2:others()
+a4a.site,tensailab.com,tizrte.xyz,otechno.net,trip.businessnews-nigeria.com,trip.businessnews-nigeria.com,healthy4pepole.com,to-travel.net,hightrip.net,fx-gd.net,te-it.com,world2our.com,mobi2c.com,tech5s.co,ez4mods.com,sinonimos.de,bluetechno.net,forexit.online###submitBtn, #go_d, #devozon-snp, #submitBtn, #tp-snp1, #go_d2:style(display: block !important;)
+fx-gd.net,healthy4pepole.com,hightrip.net,to-travel.net#@##submitBtn, #go_d, #wolfexe-snp:style(display: block !important;)
+fx-gd.net,healthy4pepole.com,hightrip.net,to-travel.net#@##submitBtn, #go_d, #wolfexe-snp:others()
+fx-gd.net,healthy4pepole.com,hightrip.net,to-travel.net#@#+js(nano-sib, /.?/, *, 0.02)
 a4a.site,tensailab.com##+js(noeval-if, ads)
 tensailab.com##+js(nano-sib, /.?/, *, 0.02)
 tensailab.com##.btn-primary, #go_d, #tp-snp1, #go_d2:others()
